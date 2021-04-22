@@ -1,0 +1,892 @@
+scalerank,featurecla,type,name,abbrev,location,gps_code,iata_code,natlscale,name_en,wdid_score,ne_id,X,Y
+9,Airport,small,Sahnewal,LUH,terminal,VILD,LUH,8,Sahnewal Airport,4,1159113785,76.00,31.00
+9,Airport,mid,Solapur,SSE,terminal,VASL,SSE,8,Solapur Airport,4,1159113803,76.00,18.00
+9,Airport,mid,Birsa Munda,IXR,terminal,VERC,IXR,8,Birsa Munda Airport,4,1159113831,85.00,23.00
+9,Airport,mid,Ahwaz,AWZ,terminal,OIAW,AWZ,8,Ahwaz International Airport,4,1159113845,49.00,31.00
+9,Airport,mid and military,Gwalior,GWL,terminal,VIGR,GWL,8,Gwalior Airport,4,1159113863,78.00,26.00
+9,Airport,mid,Hodeidah Int'l,HOD,terminal,OYHD,HOD,8,Hodeida International Airport,4,1159113883,43.00,15.00
+9,Airport,mid,Devi Ahilyabai Holkar Int'l,IDR,terminal,VAID,IDR,8,Devi Ahilyabai Holkar Airport,4,1159113903,76.00,23.00
+9,Airport,mid,Gandhinagar,ISK,ramp,VANR,ISK,8,Gandhinagar Airport,4,1159113917,74.00,20.00
+9,Airport,major and military,Chandigarh Int'l,IXC,terminal,VICG,IXC,8,Chandigarh Airport,4,1159113937,77.00,31.00
+9,Airport,mid,Aurangabad,IXU,terminal,VAAU,IXU,8,Aurangabad Airport,4,1159113953,75.00,20.00
+9,Airport,mid and military,Faisalabad Int'l,LYP,terminal,OPFA,LYP,8,Faisalabad International Airport,4,1159113971,73.00,31.00
+9,Airport,mid,Omsk Tsentralny,OMS,terminal,UNOO,OMS,8,Omsk Tsentralny Airport,4,1159113991,73.00,55.00
+9,Airport,mid,Novosibirsk Tolmachev,OVB,terminal,UNNT,OVB,8,Tolmachevo Airport,4,1159114013,83.00,55.00
+9,Airport,mid and military,Zaporozhye Int'l,OZH,runway,UKDE,OZH,8,Zaporizhzhia International Airport,4,1159114037,35.00,48.00
+9,Airport,mid,Simpang Tiga,PKU,terminal,WIBB,PKU,8,Sultan Syarif Kasim II Airport,4,1159114047,101.00,
+9,Airport,mid,Rota Int'l,ROP,terminal,PGRO,ROP,8,Rota International Airport,4,1159114063,145.00,14.00
+9,Airport,mid,Surgut,SGC,terminal,USRR,SGC,8,Surgut International Airport,4,1159114081,73.00,61.00
+9,Airport,mid,Tiruchirappalli,TRZ,terminal,VOTR,TRZ,8,Tiruchirapalli Airport,4,1159114099,79.00,11.00
+9,Airport,mid,Turbat Int'l,TUK,terminal,OPTU,TUK,8,Turbat International Airport,4,1159114117,63.00,26.00
+9,Airport,mid,Quetta Int'l,UET,terminal,OPQT,UET,8,Quetta International Airport,4,1159114135,67.00,30.00
+9,Airport,mid,Zahedan Int'l,ZAH,terminal,OIZH,ZAH,8,Zahedan Airport,4,1159114153,61.00,29.00
+9,Airport,mid and military,Abdul Rachman Saleh,MLG,ramp,WARA,MLG,8,Abdul Rachman Saleh Airport,4,1159114171,113.00,-8.00
+9,Airport,mid,Barnaul,BAX,ramp,UNBB,BAX,8,Barnaul Airport,4,1159114187,84.00,53.00
+9,Airport,military mid,Adampur,VIAX,runway,VIAX,,8,Adampur Air force base,5,1159114195,76.00,31.00
+9,Airport,military,Bareilly,VIBY,runway,VIBY,,8,Bareilly Airport,4,1159114211,79.00,28.00
+9,Airport,small,Dhamial,OPQS,runway,OPQS,,8,Dhamial Army Airbase,4,1159114231,73.00,34.00
+9,Airport,major,Cheongju Int'l,CJJ,terminal,RKTU,CJJ,8,Cheongju International Airport,4,1159114253,127.00,37.00
+9,Airport,mid and military,Gwangju,KWJ,terminal,RKJJ,KWJ,8,Gwangju Airport,4,1159114271,127.00,35.00
+9,Airport,mid,Daegu Int'l,TAE,terminal,RKTN,TAE,8,Daegu International Airport,4,1159114289,129.00,36.00
+9,Airport,mid,Ulsan,USN,terminal,RKPU,USN,8,Ulsan Airport,4,1159114319,129.00,36.00
+9,Airport,mid,Radin Inten II,WIIT,terminal,WIAT,TKG,8,Radin Inten II Airport,4,1159114325,105.00,-5.00
+9,Airport,military,Allahabad,IXD,ramp,VIAL,IXD,8,Allahabad Airport,4,1159114341,82.00,25.00
+9,Airport,mid,Chelyabinsk,CEK,terminal,USCC,CEK,8,Chelyabinsk Airport,4,1159114359,62.00,55.00
+8,Airport,military mid,Tainan,TNN,ramp,RCNN,TNN,10,Tainan Airport,4,1159114373,120.00,23.00
+8,Airport,military mid,Taichung,RMQ,ramp,RCMQ,RMQ,10,Taichung Airport,4,1159114393,121.00,24.00
+8,Airport,mid,Rotterdam The Hague,RTM,terminal,EHRD,RTM,10,Rotterdam The Hague Airport,4,1159114411,4.00,52.00
+8,Airport,mid,Voronezh-Chertovitskoye,VOZ,terminal,UUOO,VOZ,10,Voronezh International Airport,4,1159114431,39.00,52.00
+8,Airport,major,Liverpool John Lennon,LPL,ramp,EGGP,LPL,10,Liverpool John Lennon Airport,4,1159114447,-3.00,53.00
+8,Airport,mid,Vishakapatnam,VTZ,terminal,VEVZ,VTZ,10,Visakhapatnam Airport,4,1159114465,83.00,18.00
+8,Airport,major,Sultan Hasanuddin Int'l,UPG,terminal,WAAA,UPG,10,Sultan Hasanuddin International Airport,4,1159114481,120.00,-5.00
+8,Airport,mid,Vava'u Int'l,VAV,terminal,NFTV,VAV,10,Vava'u International Airport,4,1159114497,-174.00,-19.00
+8,Airport,major,Newcastle Int'l,NCL,terminal,EGNT,NCL,10,Newcastle Airport,4,1159114519,-2.00,55.00
+8,Airport,mid,Goloson Int'l,LCE,terminal,MHLC,LCE,10,Golosón International Airport,4,1159114531,-87.00,16.00
+8,Airport,major,Madinah Int'l,MED,terminal,OEMA,MED,10,Prince Mohammad Bin Abdulaziz Airport,4,1159114549,40.00,25.00
+8,Airport,mid,Mirabel Int'l,YMX,terminal,CYMX,YMX,10,Montréal–Mirabel International Airport,4,1159114567,-74.00,46.00
+8,Airport,mid,Palanga Int'l,PLQ,terminal,EYPA,PLQ,10,Palanga International Airport,4,1159114587,21.00,56.00
+8,Airport,mid,Jaipur Int'l,JAI,terminal,VIJP,JAI,10,Jaipur Airport,4,1159114607,76.00,27.00
+8,Airport,mid,Sonari,IXW,terminal,VEJS,IXW,10,Sonari Airport,4,1159114623,86.00,23.00
+8,Airport,mid,Yenisehir,YEI,ramp,LTBR,YEI,10,Yenişehir Airport,4,1159114643,30.00,40.00
+8,Airport,major,Şakirpaşa,ADA,terminal,LTAF,ADA,10,Adana Şakirpaşa Airport,4,1159114663,35.00,37.00
+8,Airport,mid,Kodiak,ADQ,ramp,PADQ,ADQ,10,Kodiak Airport,4,1159114685,-152.00,58.00
+8,Airport,major,Amarillo Int'l,AMA,terminal,KAMA,AMA,10,Rick Husband Amarillo International Airport,4,1159114695,-102.00,35.00
+8,Airport,mid,Alice Springs,ASP,terminal,YBAS,ASP,10,Alice Springs Airport,4,1159114713,134.00,-24.00
+8,Airport,mid and military,Raja Sansi Int'l,ATQ,terminal,VIAR,ATQ,10,Sri Guru Ram Dass Jee International Airport,4,1159114737,75.00,32.00
+8,Airport,mid,Biju Patnaik,BBI,terminal,VEBS,BBI,10,Biju Patnaik Airport,4,1159114753,86.00,20.00
+8,Airport,mid,Bethel,BET,runway,PABE,BET,10,Bethel Airport,4,1159114773,-162.00,61.00
+8,Airport,mid,Palonegro,BGA,terminal,SKBG,BGA,10,Palonegro International Airport,4,1159114791,-73.00,7.00
+8,Airport,major,Birmingham Int'l,BHM,terminal,KBHM,BHM,10,Birmingham-Shuttlesworth International Airport,4,1159114807,-87.00,34.00
+8,Airport,mid,Broken Hill,BHQ,terminal,YBHI,BHQ,10,Broken Hill Airport,4,1159114825,141.00,-32.00
+8,Airport,major,Logan Int'l,BIL,terminal,KBIL,BIL,10,Billings Logan International Airport,4,1159114843,-109.00,46.00
+8,Airport,mid,Bismarck Muni.,BIS,terminal,KBIS,BIS,10,Bismarck Municipal Airport,4,1159114861,-101.00,47.00
+8,Airport,mid,Del Bajio Int'l,BJX,terminal,MMLO,BJX,10,Del Bajío International Airport,4,1159114875,-101.00,21.00
+8,Airport,mid,Benin,BNI,terminal,DNBE,BNI,10,Benin Airport,4,1159114893,6.00,6.00
+8,Airport,major,Bourgas,BOJ,ramp,LBBG,BOJ,10,Burgas Airport,4,1159114899,28.00,43.00
+8,Airport,major,Bremen,BRE,terminal,EDDW,BRE,10,Bremen Airport,4,1159114933,9.00,53.00
+8,Airport,mid,Jacinto Lara Int'l,BRM,terminal,SVBM,BRM,10,Jacinto Lara International Airport,4,1159114957,-69.00,10.00
+8,Airport,mid,Brownsville-South Padre Island Int'l,BRO,terminal,KBRO,BRO,10,Brownsville/South Padre Island International Airport,4,1159114971,-97.00,26.00
+8,Airport,major,Bristol Int'l,BRS,terminal,EGGD,BRS,10,Bristol Airport,4,1159114989,-3.00,51.00
+8,Airport,major,Baton Rouge Metro,BTR,terminal,KBTR,BTR,10,Baton Rouge Metropolitan Airport,4,1159115003,-91.00,31.00
+8,Airport,major,Bratislava-M.R. Štefánik,BTS,terminal,LZIB,BTS,10,M. R. Štefánik Airport,4,1159115025,17.00,48.00
+8,Airport,mid,Burlington Int'l,BTV,terminal,KBTV,BTV,10,Burlington International Airport,4,1159115045,-73.00,44.00
+8,Airport,major,Columbia Metro,CAE,terminal,KCAE,CAE,10,Columbia Metropolitan Airport,4,1159115063,-81.00,34.00
+8,Airport,major,Calicut Int'l,CCJ,terminal,VOCL,CCJ,10,Calicut International Airport,4,1159115083,76.00,11.00
+8,Airport,mid,Cocos (Keeling) Islands,CCK,terminal,YPCC,CCK,10,Cocos,4,1159115105,97.00,-12.00
+8,Airport,mid,Corfu Int'l (Ioannis Kapodistrias),CFU,terminal,LGKR,CFU,10,Corfu International Airport,4,1159115125,20.00,40.00
+8,Airport,major,Changchun Longjia Int'l,CGQ,terminal,ZYCC,CGQ,10,Changchun Longjia International Airport,4,1159115151,126.00,44.00
+8,Airport,major and military,Charleston Int'l,CHS,terminal,KCHS,CHS,10,Charleston International Airport,2,1159115179,-80.00,33.00
+8,Airport,mid,Coimbatore,CJB,terminal,VOCB,CJB,10,Coimbatore Airport,4,1159115195,77.00,11.00
+8,Airport,mid,Someseni,CLJ,ramp,LRCL,CLJ,10,Cluj International Airport,4,1159115215,24.00,47.00
+8,Airport,mid,Ignacio Agramonte,CMW,terminal,MUCM,CMW,10,Ignacio Agramonte International Airport,4,1159115239,-78.00,21.00
+8,Airport,major,Casper/Natrona County Int'l,CPR,terminal,KCPR,CPR,10,Casper–Natrona County International Airport,4,1159115255,-106.00,43.00
+8,Airport,major,Clark Int'l,CRK,ramp,RPLC,CRK,10,Clark International Airport,2,1159115281,121.00,15.00
+8,Airport,major and military,Yeager,CRW,terminal,KCRW,CRW,10,Yeager Airport,4,1159115293,-82.00,38.00
+8,Airport,major,Catania Fontanarossa,CTA,terminal,LICC,CTA,10,Catania-Fontanarossa Airport,4,1159115313,15.00,37.00
+8,Airport,mid,Chetumal Int'l,CTM,terminal,MMCM,CTM,10,Chetumal International Airport,4,1159115333,-88.00,19.00
+8,Airport,major,Cardiff,CWL,terminal,EGFF,CWL,10,Cardiff Airport,4,1159115353,-3.00,51.00
+8,Airport,mid,Gerrard Smith,CYB,terminal,MWCB,CYB,10,Charles Kirkconnell International Airport,4,1159115383,-80.00,20.00
+8,Airport,mid,Cozumel Int'l,CZM,terminal,MMCZ,CZM,10,Cozumel International Airport,4,1159115401,-87.00,21.00
+8,Airport,major,James M. Cox Dayton Int'l,DAY,terminal,KDAY,DAY,10,Dayton International Airport,4,1159115417,-84.00,40.00
+8,Airport,mid,Dubbo,DBO,approximate,YSDU,DBO,10,Dubbo City Airport,4,1159115439,149.00,-32.00
+8,Airport,major,Washington Nat'l,DCA,terminal,KDCA,DCA,10,Ronald Reagan Washington National Airport,4,1159115459,-77.00,39.00
+8,Airport,mid,Durango Int'l,DGO,terminal,MMDO,DGO,10,General Guadalupe Victoria International Airport,4,1159115479,-105.00,24.00
+8,Airport,mid,Voloskoye,DNK,terminal,UKDD,DNK,10,Dnipropetrovsk International Airport,4,1159115501,35.00,48.00
+8,Airport,major,Donetsk,DOK,terminal,UKCC,DOK,10,Donetsk International Airport,4,1159115513,38.00,48.00
+8,Airport,mid,Santa Bernardina Int'l,DZO,runway,SUDU,DZO,10,Santa Bernardina International Airport,4,1159115539,-56.00,-33.00
+8,Airport,major,Edinburgh Int'l,EDI,terminal,EGPH,EDI,10,Edinburgh Airport,4,1159115559,-3.00,56.00
+8,Airport,mid,Terrance B. Lettsome Int'l,EIS,terminal,TUPJ,EIS,10,Terrance B. Lettsome International Airport,4,1159115573,-65.00,18.00
+8,Airport,mid,Elko Reg.,EKO,terminal,KEKO,EKO,10,Elko Regional Airport,4,1159115593,-116.00,41.00
+8,Airport,mid,Ensenada,ESE,ramp,MMES,ESE,10,Ensenada Airport,4,1159115613,-117.00,32.00
+8,Airport,mid,Vágar,FAE,approximate,EKVG,FAE,10,Vágar Airport,4,1159115633,-7.00,62.00
+8,Airport,mid and military,Hector Int'l,FAR,terminal,KFAR,FAR,10,Hector International Airport,4,1159115653,-97.00,47.00
+8,Airport,mid,Fresno Yosemite Int'l,FAT,terminal,KFAT,FAT,10,Fresno Yosemite International Airport,4,1159115671,-120.00,37.00
+8,Airport,mid,Flagstaff Pulliam,FLG,terminal,KFLG,FLG,10,Flagstaff Pulliam Airport,4,1159115693,-112.00,35.00
+8,Airport,mid,Mundo Maya Int'l,FRS,terminal,MGTK,FRS,10,Mundo Maya International Airport,5,1159115711,-90.00,17.00
+8,Airport,mid,Sioux Falls Reg.,FSD,terminal,KFSD,FSD,10,Sioux Falls Regional Airport,4,1159115731,-97.00,44.00
+8,Airport,major,Spokane Int'l,GEG,terminal,KGEG,GEG,10,Spokane International Airport,4,1159115761,-118.00,48.00
+8,Airport,mid,Exuma Int'l,GGT,terminal,MYEF,GGT,10,Exuma International Airport,4,1159115775,-76.00,24.00
+8,Airport,mid,Gibraltar,GIB,runway,LXGB,GIB,10,Gibraltar International Airport,4,1159115799,-5.00,36.00
+8,Airport,mid,Gerald R. Ford Int'l,GRR,terminal,KGRR,GRR,10,Gerald R. Ford International Airport,4,1159115827,-86.00,43.00
+8,Airport,major,Triad Int'l,GSO,terminal,KGSO,GSO,10,Piedmont Triad International Airport,4,1159115847,-80.00,36.00
+8,Airport,mid,Great Falls Int'l,GTF,terminal,KGTF,GTF,10,Great Falls International Airport,4,1159115875,-111.00,47.00
+8,Airport,major,Gaziantep Oğuzeli Int'l,GZT,terminal,LTAJ,GZT,10,Oğuzeli Airport,4,1159115899,37.00,37.00
+8,Airport,mid,Hubli,HBX,terminal,VAHB,HBX,10,Hubli Airport,5,1159115911,75.00,15.00
+8,Airport,mid,Hat Yai Int'l,HDY,terminal,VTSS,HDY,10,Hat Yai International Airport,4,1159115937,100.00,7.00
+8,Airport,mid,Hefei-Luogang,HFE,ramp,ZSOF,HFE,10,Hefei Luogang International Airport,4,1159115965,117.00,32.00
+8,Airport,major,Hurghada Int'l,HRG,terminal,HEGN,HRG,10,Hurghada International Airport,4,1159115975,34.00,27.00
+8,Airport,major,Kharkov Int'l,HRK,ramp,UKHH,HRK,10,Kharkiv International Airport,4,1159115997,36.00,50.00
+8,Airport,major,Huntsville Int'l,HSV,terminal,KHSV,HSV,10,Huntsville International Airport,4,1159116015,-87.00,35.00
+8,Airport,mid,Ibadan,IBA,ramp,DNIB,IBA,10,Ibadan Airport,4,1159116035,4.00,7.00
+8,Airport,major,Kansas City Int'l,ICT,terminal,KICT,ICT,10,Wichita Dwight D. Eisenhower National Airport,4,1159116067,-97.00,38.00
+8,Airport,mid,Wilmington Int'l,ILM,terminal,KILM,ILM,10,Wilmington International Airport,4,1159116087,-78.00,34.00
+8,Airport,mid,Ilorin Int'l,ILR,terminal,DNIL,ILR,10,Ilorin International Airport,4,1159116105,4.00,8.00
+8,Airport,mid,Falls Int'l,INL,terminal,KINL,INL,10,Falls International Airport,4,1159116121,-93.00,49.00
+8,Airport,mid,Inverness,INV,terminal,EGPE,INV,10,Inverness Airport,4,1159116141,-4.00,58.00
+8,Airport,mid,Imperial Cty.,IPL,terminal,KIPL,IPL,10,Imperial County Airport,4,1159116157,-116.00,33.00
+8,Airport,mid,Jammu,IXJ,terminal,VIJU,IXJ,10,Jammu Airport,4,1159116179,75.00,33.00
+8,Airport,mid,Madurai,IXM,terminal,VOMD,IXM,10,Madurai International Airport,4,1159116199,78.00,10.00
+8,Airport,major and military,Jodhpur,JDH,terminal,VIJO,JDH,10,Jodhpur Airport,4,1159116221,73.00,26.00
+8,Airport,mid,Jabalpur,JLR,terminal,VAJB,JLR,10,Jabalpur Airport,4,1159116243,80.00,23.00
+8,Airport,mid,Kilimanjaro Int'l,JRO,terminal,HTKJ,JRO,10,Kilimanjaro International Airport,4,1159116261,37.00,-3.00
+8,Airport,mid,Kaduna,KAD,terminal,DNKA,KAD,10,Kaduna Airport,4,1159116287,7.00,11.00
+8,Airport,mid,Kananga,KGA,terminal,FZUA,KGA,10,Kananga Airport,4,1159116305,22.00,-6.00
+8,Airport,mid,Kumasi,KMS,terminal,DGSI,KMS,10,Kumasi Airport,4,1159116323,-2.00,7.00
+8,Airport,mid,Viña del Mar,KNA,ramp,SCVM,KNA,10,Viña del Mar Airport,4,1159116349,-71.00,-33.00
+8,Airport,mid,Kanpur,KNU,terminal,VIKA,KNU,10,Kanpur Civil Airport,4,1159116365,80.00,26.00
+8,Airport,mid,Kona Int'l at Keahole,KOA,terminal,PHKO,KOA,10,Kona International Airport,4,1159116385,-156.00,20.00
+8,Airport,mid,Kirkwall,KOI,ramp,EGPA,KOI,10,Kirkwall Airport,4,1159116405,-3.00,59.00
+8,Airport,mid,Kota,KTU,terminal,VIKO,KTU,10,Kota Airport,4,1159116425,76.00,25.00
+8,Airport,major and military,Konya,KYA,terminal,LTAN,KYA,10,Konya Airport,4,1159116445,33.00,38.00
+8,Airport,major,Blue Grass,LEX,terminal,KLEX,LEX,10,Blue Grass Airport,4,1159116465,-85.00,38.00
+8,Airport,mid,Lihue,LIH,terminal,PHLI,LIH,10,Lihue Airport,4,1159116477,-159.00,22.00
+8,Airport,major,Clinton National,LIT,terminal,KLIT,LIT,10,Bill and Hillary Clinton National Airport,5,1159116503,-92.00,35.00
+8,Airport,mid,Los Mochis,LMM,ramp,MMLM,LMM,10,Valle del Fuerte Federal International Airport,4,1159116513,-109.00,26.00
+8,Airport,mid,Venustiano Carranza Int'l,LOV,runway,MMMV,LOV,10,Venustiano Carranza International Airport,4,1159116531,-101.00,27.00
+8,Airport,mid,Laredo Int'l,LRD,terminal,KLRD,LRD,10,Laredo International Airport,4,1159116549,-99.00,28.00
+8,Airport,mid,Sumburgh,LSI,runway,EGPB,LSI,10,Sumburgh Airport,2,1159116567,-1.00,60.00
+8,Airport,major,Bassel Al-Assad Int'l,LTK,terminal,OSLK,LTK,10,Bassel Al-Assad International Airport,4,1159116587,36.00,35.00
+8,Airport,major,London Luton,LTN,terminal,EGGW,LTN,10,Luton Airport,4,1159116605,,52.00
+8,Airport,mid,Svalbard Longyear,LYR,terminal,ENSB,LYR,10,Svalbard Airport,4,1159116623,15.00,78.00
+8,Airport,mid,Sangster Int'l,MBJ,runway,MKJS,MBJ,10,Sangster International Airport,4,1159116641,-78.00,19.00
+8,Airport,mid,Mandalay Int'l,MDL,terminal,VYMD,MDL,10,Mandalay International Airport,4,1159116657,96.00,22.00
+8,Airport,major,Chicago Midway Int'l,MDW,terminal,KMDW,MDW,10,Chicago Midway International Airport,4,1159116663,-88.00,42.00
+8,Airport,mid and military,Eloy Alfaro Int'l,MEC,runway,SEMT,MEC,10,Eloy Alfaro International Airport,4,1159116681,-81.00,-1.00
+8,Airport,major,Montgomery Reg.,MGM,terminal,KMGM,MGM,10,Montgomery Regional Airport,4,1159116701,-86.00,32.00
+8,Airport,major,Manchester-Boston Reg.,MHT,terminal,KMHT,MHT,10,Manchester–Boston Regional Airport,4,1159116733,-71.00,43.00
+8,Airport,mid,Maiduguri Int'l,DNMA,terminal,DNMA,MIU,10,Maiduguri International Airport,4,1159116745,13.00,12.00
+8,Airport,mid,Mbuji Mayi,MJM,terminal,FZWA,MJM,10,Mbuji Mayi Airport,4,1159116757,24.00,-6.00
+8,Airport,mid,Minot Int'l,MOT,terminal,KMOT,MOT,10,Minot International Airport,4,1159116781,-101.00,48.00
+8,Airport,mid,Missoula Int'l,MSO,terminal,KMSO,MSO,10,Missoula International Airport,4,1159116793,-114.00,47.00
+8,Airport,mid,Gen R.S. Taboada Int'l,MXL,terminal,MMML,MXL,10,General Rodolfo Sánchez Taboada International Airport,4,1159116811,-115.00,33.00
+8,Airport,major,Malpensa,MXP,terminal,LIMC,MXP,10,Milan–Malpensa Airport,4,1159116827,9.00,46.00
+8,Airport,mid,Norfolk Island,NLK,terminal,YSNF,NLK,10,Norfolk Island Airport,4,1159116847,168.00,-29.00
+8,Airport,major,Nurnberg,NUE,terminal,EDDN,NUE,10,Nuremberg Airport,4,1159116865,11.00,49.00
+8,Airport,major,Odessa Int'l,ODS,terminal,UKOO,ODS,10,Odessa International Airport,4,1159116875,31.00,46.00
+8,Airport,mid,Gold Coast,OOL,terminal,YBCG,OOL,10,Gold Coast Airport,4,1159116895,154.00,-28.00
+8,Airport,mid,Oran Es Senia,ORN,terminal,DAOO,ORN,10,Oran Es Sénia Airport,4,1159116913,-1.00,36.00
+8,Airport,mid,Lok Nayak Jaiprakash,PAT,terminal,VEPT,PAT,10,Lok Nayak Jayaprakash Airport,4,1159116937,85.00,26.00
+8,Airport,mid,Paysandu,PDU,terminal,SUPU,PDU,10,Paysandú Airport,4,1159116951,-58.00,-32.00
+8,Airport,major,Paphos Int'l,PFO,ramp,LCPH,PFO,10,Paphos International Airport,4,1159116971,32.00,35.00
+8,Airport,mid,Sultan Mahmud Badaruddin II,PLM,terminal,WIPP,PLM,10,Sultan Mahmud Badaruddin II International Airport,4,1159116979,105.00,-3.00
+8,Airport,mid,Polokwane Int'l,PTG,terminal,FAPP,PTG,10,Polokwane International Airport,4,1159117007,29.00,-24.00
+8,Airport,mid,Punta Cana,PUJ,terminal,MDPC,PUJ,10,Punta Cana International Airport,4,1159117025,-68.00,19.00
+8,Airport,mid,Queretaro Int'l,QRO,terminal,MMQT,QRO,10,Querétaro International Airport,4,1159117049,-100.00,21.00
+8,Airport,mid,Rajkot,RAJ,runway,VARK,RAJ,10,Rajkot Airport,4,1159117053,71.00,22.00
+8,Airport,major,Richmond Int'l,RIC,terminal,KRIC,RIC,10,Richmond International Airport,4,1159117071,-77.00,38.00
+8,Airport,mid,Shah Makhdum,RJH,terminal,VGRJ,RJH,10,Shah Makhdum Airport,4,1159117089,89.00,24.00
+8,Airport,major,Greater Rochester Int'l,ROC,terminal,KROC,ROC,10,Greater Rochester International Airport,4,1159117107,-78.00,43.00
+8,Airport,mid,Rockhampton,ROK,terminal,YBRK,ROK,10,Rockhampton Airport,4,1159117127,150.00,-23.00
+8,Airport,mid,Rostov-on-Don,ROV,terminal,URRR,ROV,10,Rostov-on-Don Airport,4,1159117147,40.00,47.00
+8,Airport,mid,Saratov,RTW,ramp,UWSS,RTW,10,Saratov Tsentralny Airport,4,1159117175,46.00,52.00
+8,Airport,mid,Ramón Villeda Morales Int'l,SAP,terminal,MHLM,SAP,10,Ramón Villeda Morales International Airport,4,1159117187,-88.00,15.00
+8,Airport,mid,Santa Barbara Muni.,SBA,terminal,KSBA,SBA,10,Santa Barbara Municipal Airport,4,1159117215,-120.00,34.00
+8,Airport,mid,Deadhorse,SCC,ramp,PASC,SCC,10,Deadhorse Airport,4,1159117221,-148.00,70.00
+8,Airport,mid,Kangerlussuaq,SFJ,ramp,BGSF,SFJ,10,Kangerlussuaq Airport,4,1159117249,-51.00,67.00
+8,Airport,major,Springfield Reg.,SGF,terminal,KSGF,SGF,10,Springfield-Branson National Airport,4,1159117257,-93.00,37.00
+8,Airport,major,Shreveport Reg.,SHV,terminal,KSHV,SHV,10,Shreveport Regional Airport,4,1159117279,-94.00,32.00
+8,Airport,major,Simferopol Int'l,SIP,ramp,UKFF,SIP,10,Simferopol International Airport,4,1159117305,34.00,45.00
+8,Airport,mid,Sitka Rocky Gutierrez,SIT,terminal,PASI,SIT,10,Sitka Rocky Gutierrez Airport,4,1159117325,-135.00,57.00
+8,Airport,major,Los Cabos Int'l,SJD,terminal,MMSD,SJD,10,Los Cabos International Airport,4,1159117339,-110.00,23.00
+8,Airport,major,McNary Field,SLE,terminal,KSLE,SLE,10,McNary Field,4,1159117357,-123.00,45.00
+8,Airport,mid,Plan de Guadalupe,SLW,ramp,MMIO,SLW,10,Plan de Guadalupe International Airport,4,1159117385,-101.00,26.00
+8,Airport,major,Shannon,SNN,terminal,EINN,SNN,10,Shannon Airport,4,1159117403,-9.00,53.00
+8,Airport,mid,Santo Pekoa Int'l,SON,runway,NVSS,SON,10,Santo-Pekoa International Airport,4,1159117423,167.00,-16.00
+8,Airport,mid,Achmad Yani,SRG,terminal,WARS,SRG,10,Achmad Yani International Airport,4,1159117439,110.00,-7.00
+8,Airport,military mid,Srinagar,SXR,ramp,VISR,SXR,10,Srinagar Airport,4,1159117453,75.00,34.00
+8,Airport,mid,Tapachula Int'l,TAP,ramp,MMTP,TAP,10,Tapachula International Airport,4,1159117469,-92.00,15.00
+8,Airport,major,Podgorica,TGD,terminal,LYPG,TGD,10,Podgorica Airport,4,1159117487,19.00,42.00
+8,Airport,major,Tallahassee Reg.,TLH,terminal,KTLH,TLH,10,Tallahassee International Airport,4,1159117513,-84.00,30.00
+8,Airport,major,Turin Int'l,TRN,terminal,LIMF,TRN,10,Turin Airport,4,1159117525,8.00,45.00
+8,Airport,major,Taiyuan Wusu Int'l,TYN,terminal,ZBYN,TYN,10,Taiyuan Wusu International Airport,4,1159117549,113.00,38.00
+8,Airport,mid,Narsarsuaq,UAK,ramp,BGBW,UAK,10,Narsarsuaq Airport,4,1159117575,-45.00,61.00
+8,Airport,military mid,U-Tapao,UTP,ramp,VTBU,UTP,10,U-Tapao International Airport,5,1159117593,101.00,13.00
+8,Airport,mid,Victoria Falls,VFA,runway,FVFA,VFA,10,Victoria Falls Airport,4,1159117607,26.00,-18.00
+8,Airport,mid,Vijaywada,VGA,ramp,VOBZ,VGA,10,Vijayawada Airport,4,1159117621,81.00,17.00
+8,Airport,mid,Varanasi,VNS,terminal,VIBN,VNS,10,Lal Bahadur Shastri Airport,4,1159117647,83.00,25.00
+8,Airport,major,Juan Gualberto Gomez,VRA,terminal,MUVR,VRA,10,Juan Gualberto Gómez Airport,4,1159117667,-81.00,23.00
+8,Airport,mid,Villahermosa,VSA,terminal,MMVA,VSA,10,Carlos Rovirosa Pérez International Airport,4,1159117675,-93.00,18.00
+8,Airport,mid,Brandon,YBR,terminal,CYBR,YBR,10,Brandon Municipal Airport,4,1159117705,-100.00,50.00
+8,Airport,military major,CFB Edmonton,YED,ramp,CYED,YED,10,3rd Division Support Base,4,1159117725,-113.00,54.00
+8,Airport,mid,Iqaluit,YFB,terminal,CYFB,YFB,10,Iqaluit Airport,4,1159117737,-69.00,64.00
+8,Airport,mid,John C. Munro Hamilton Int'l,YHM,terminal,CYHM,YHM,10,John C. Munro Hamilton International Airport,4,1159117751,-80.00,43.00
+8,Airport,mid,Fort McMurray,YMM,terminal,CYMM,YMM,10,Fort McMurray International Airport,4,1159117769,-111.00,57.00
+8,Airport,major and military,Yantai,YNT,terminal,ZSYT,YNT,10,Yantai Laishan International Airport,4,1159117787,121.00,37.00
+8,Airport,mid,Peace River,YPE,terminal,CYPE,YPE,10,Peace River Airport,4,1159117801,-117.00,56.00
+8,Airport,mid,Greater Moncton Int'l,YQM,terminal,CYQM,YQM,10,Greater Moncton International Airport,4,1159117815,-65.00,46.00
+8,Airport,mid,Sydney/J.A. Douglas McCurdy,YQY,terminal,CYQY,YQY,10,Sydney/J.A. Douglas McCurdy Airport,4,1159117831,-60.00,46.00
+8,Airport,mid,Resolute Bay,YRB,runway,CYRB,YRB,10,Resolute Bay Airport,4,1159117851,-95.00,75.00
+8,Airport,mid,Fort Smith,YSM,runway,CYSM,YSM,10,Fort Smith Airport,4,1159117869,-112.00,60.00
+8,Airport,mid,Thompson,YTH,ramp,CYTH,YTH,10,Thompson Airport,4,1159117885,-98.00,56.00
+8,Airport,mid,Timmins,YTS,ramp,CYTS,YTS,10,Timmins/Victor M. Power Airport,4,1159117903,-81.00,49.00
+8,Airport,mid,Repulse Bay,YUT,approximate,CYUT,YUT,10,Repulse Bay Airport,4,1159117931,-86.00,67.00
+8,Airport,mid,Kuujjuaq,YVP,approximate,CYVP,YVP,10,Kuujjuaq Airport,4,1159117945,-68.00,58.00
+8,Airport,mid,Wabush,YWK,ramp,CYWK,YWK,10,Wabush Airport,4,1159117971,-67.00,53.00
+8,Airport,mid,Edmonton City Centre,YXD,terminal,CYXD,YXD,10,Edmonton City Centre,4,1159117985,-114.00,54.00
+8,Airport,mid,Fort St. John (N. Peace),YXJ,approximate,CYXJ,YXJ,10,Fort St. John Airport,4,1159118009,-121.00,56.00
+8,Airport,mid,North Bay/Jack Garland,YYB,approximate,CYYB,YYB,10,North Bay/Jack Garland Airport,4,1159118021,-79.00,46.00
+8,Airport,mid,Zaria,ZAR,ramp,DNZA,ZAR,10,Zaria Airport,4,1159118043,8.00,11.00
+8,Airport,mid,Skopje,SKP,terminal,LWSK,SKP,10,"Skopje ""Alexander the Great"" Airport",4,1159118053,22.00,42.00
+8,Airport,mid,Burnpur,VE23,runway,VE23,,10,Burnpur Airport,4,1159118067,87.00,24.00
+8,Airport,mid,Hindon Air Force Station,VIDX,runway,VIDX,,10,Hindon Air Force Station,4,1159118081,77.00,29.00
+8,Airport,major,Sunchon,,runway,,,10,Sunchon Airport,4,1159118101,126.00,39.00
+8,Airport,mid,Łódź Władysław Reymont,EPLL,terminal,EPLL,LCJ,10,Łódź Władysław Reymont Airport,4,1159118117,19.00,52.00
+8,Airport,mid and military,Alma Ata N.W.,BXJ,ramp,UAAR,BXJ,10,Boraldai Airport,2,1159118141,77.00,43.00
+8,Airport,mid,Jiamusi Dongjiao,JMU,ramp,ZYJM,JMU,10,Jiamusi Dongjiao Airport,4,1159118157,130.00,47.00
+8,Airport,major,Mudanjiang Hailang,MDG,ramp,ZYMD,MDG,10,Mudanjiang Hailang International Airport,4,1159118173,130.00,45.00
+8,Airport,military major,Severomorsk-3 (Murmansk N.E.),ULMM,runway,ULMM,,10,Severomorsk-3,5,1159118187,33.00,69.00
+8,Airport,mid,Mosul Int'l,OSB,runway,ORBM,OSB,10,Mosul International Airport,4,1159118205,43.00,36.00
+8,Airport,military mid,Rostov N.,,runway,,,10,Bataysk Air Base,2,1159118221,40.00,47.00
+8,Airport,mid,Rostov S.W.,,runway,,,10,Rostov-on-Don Airport,2,1159118241,40.00,47.00
+8,Airport,mid,Oulu,OUL,terminal,EFOU,OUL,10,Oulu Airport,4,1159118267,25.00,65.00
+8,Airport,major,Bordeaux,BOD,terminal,LFBD,BOD,10,Bordeaux–Mérignac Airport,2,1159118275,-1.00,45.00
+8,Airport,mid,Mandelieu,CEQ,terminal,LFMD,CEQ,10,Cannes – Mandelieu Airport,4,1159118293,7.00,44.00
+8,Airport,mid,St Gatien,DOL,ramp,LFRG,DOL,10,Deauville – Saint-Gatien Airport,4,1159118319,,49.00
+8,Airport,mid,Lille-Lesquin,LIL,terminal,LFQQ,LIL,10,Lille Airport,4,1159118335,3.00,51.00
+8,Airport,major,Toulouse-Blagnac,TLS,terminal,LFBO,TLS,10,Toulouse–Blagnac Airport,4,1159118353,1.00,44.00
+8,Airport,major,Fukuoka,FUK,terminal,RJFF,FUK,10,Fukuoka Airport,4,1159118371,130.00,34.00
+8,Airport,mid,Hiroshima-Nishi,HIW,terminal,RJBH,HIW,10,Hiroshima-Nishi Airport,4,1159118391,132.00,34.00
+8,Airport,mid,Nagoya,NKM,terminal,RJNA,NKM,10,Nagoya Airfield,2,1159118405,137.00,35.00
+8,Airport,mid,Sendai,SDJ,terminal,RJSS,SDJ,10,Sendai Airport,4,1159118419,141.00,38.00
+8,Airport,mid,Kirkenes Hoybuktmoen,KKN,terminal,ENKR,KKN,10,Kirkenes Airport,4,1159118437,30.00,70.00
+8,Airport,mid,Marechal Rondon Int'l,CGB,terminal,SBCY,CGB,10,Marechal Rondon International Airport,4,1159118463,-56.00,-16.00
+8,Airport,major,Hercilio Luz Int'l,FLN,terminal,SBFL,FLN,10,Hercílio Luz International Airport,4,1159118479,-49.00,-28.00
+8,Airport,mid,Joinville-Lauro C. de Loyola,JOI,terminal,SBJV,JOI,10,Joinville-Lauro Carneiro de Loyola Airport,4,1159118499,-49.00,-26.00
+8,Airport,mid,Presidente Castro Pinto Int'l,JPA,terminal,SBJP,JPA,10,Presidente Castro Pinto International Airport,4,1159118513,-35.00,-7.00
+8,Airport,major,Augusto Severo Int'l,NAT,terminal,SJJQ,NAT,10,Augusto Severo International Airport,4,1159118529,-35.00,-6.00
+8,Airport,major,Francisco Sa Carneiro,OPO,terminal,LPPR,OPO,10,Francisco de Sá Carneiro Airport,4,1159118545,-9.00,41.00
+8,Airport,mid,Marechal Cunha Machado Int'l,SLZ,terminal,SBSL,SLZ,10,Marechal Cunha Machado International Airport,4,1159118563,-44.00,-3.00
+8,Airport,military mid,Santos Air Force Base,SSZ,ramp,SBST,SSZ,10,Santos Airbase,4,1159118581,-46.00,-24.00
+8,Airport,mid,Teresina-Senador Petronio Portella,THE,terminal,SBTE,THE,10,Teresina Airport,4,1159118599,-43.00,-5.00
+8,Airport,mid,Viracopos-Campinas Int'l,VCP,terminal,SBKP,VCP,10,Viracopos International Airport,4,1159118605,-47.00,-23.00
+8,Airport,mid,Eurico de Aguiar Salles,VIX,ramp,SBVT,VIX,10,Eurico de Aguiar Salles Airport,4,1159118619,-40.00,-20.00
+8,Airport,major,Alicante,ALC,terminal,LEAL,ALC,10,Alicante Airport,4,1159118637,-1.00,38.00
+8,Airport,mid,Almeria,LEI,terminal,LEAM,LEI,10,Almería Airport,4,1159118657,-2.00,37.00
+8,Airport,mid,Valencia,VLC,terminal,LEVC,VLC,10,Manises Airport,4,1159118675,,39.00
+8,Airport,mid,Kiruna_Airport,KRN,terminal,ESNQ,KRN,10,Kiruna Airport,4,1159118693,20.00,68.00
+8,Airport,major,Norrköping Airport,NRK,terminal,ESSP,NRK,10,Norrköping Airport,5,1159118709,16.00,59.00
+8,Airport,mid,Husein Sastranegara Int'l,BDO,runway,WICC,BDO,10,Husein Sastranegara International Airport,4,1159118727,108.00,-7.00
+8,Airport,mid,Rosario – Islas Malvinas Int'l,ROS,terminal,SAAR,ROS,10,Rosario – Islas Malvinas International Airport,4,1159118745,-61.00,-33.00
+8,Airport,mid,Maceio/Zumbi dos Palmares Int'l,MCZ,terminal,SBMO,MCZ,10,Zumbi dos Palmares International Airport,4,1159118763,-36.00,-10.00
+8,Airport,mid,Sharm el-Sheikh Int'l,SSH,ramp,HESH,SSH,10,Sharm el-Sheikh International Airport,4,1159118779,34.00,28.00
+8,Airport,mid,Taba Int'l,TCP,terminal,HETB,TCP,10,Taba International Airport,4,1159118797,35.00,30.00
+8,Airport,major and military,Agra,AGR,runway,VIAG,AGR,10,Agra airport,4,1159118821,78.00,27.00
+8,Airport,mid,Vadodara,BDQ,runway,VABO,BDQ,10,Vadodara Airport,4,1159118843,73.00,22.00
+8,Airport,mid,Shahid Ashrafi Esfahani,KSH,runway,OICC,KSH,10,Kermanshah Airport,4,1159118869,47.00,34.00
+8,Airport,mid,Benina Int'l,BEN,ramp,HLLB,BEN,10,Benina International Airport,4,1159118875,20.00,32.00
+8,Airport,military major,King Abdulaziz AB,DHA,ramp,OEDR,DHA,10,King Abdulaziz Air Base,5,1159118895,50.00,26.00
+8,Airport,mid,Nueva Hespérides Int'l,STY,runway,SUSO,STY,10,Nueva Hespérides International Airport,4,1159118917,-58.00,-31.00
+8,Airport,spaceport,Baikonur Cosmodrome,BAIK,approximate,,,10,Baikonur Cosmodrome,4,1159118931,63.00,46.00
+8,Airport,spaceport,Kennedy Space Center,KSC,approximate,,,10,Kennedy Space Center,4,1159118961,-81.00,29.00
+8,Airport,spaceport,Centre Spatial Guyanais,CSG,terminal,,,10,Guiana Space Centre,4,1159118977,-53.00,5.00
+7,Airport,mid,Queen Beatrix Int'l,AUA,terminal,TNCA,AUA,15,Queen Beatrix International Airport,4,1159118987,-70.00,13.00
+7,Airport,mid,Djibouti-Ambouli Int'l,JIB,terminal,HDAM,JIB,15,Djibouti-Ambouli International Airport,4,1159119005,43.00,12.00
+7,Airport,mid and military,Diego Aracena Int'l,IQQ,terminal,SCDA,IQQ,15,Diego Aracena International Airport,4,1159119023,-70.00,-21.00
+7,Airport,major,Sabiha Gökçen Havaalani,SAW,terminal,LTFJ,SAW,15,Sabiha Gökçen International Airport,4,1159119041,29.00,41.00
+7,Airport,mid,Kosrae Island,KSA,ramp,PTSA,KSA,15,Kosrae International Airport,4,1159119061,163.00,5.00
+7,Airport,mid,Funafuti Int'l,FUN,ramp,NGFU,FUN,15,Funafuti International Airport,4,1159119077,179.00,-9.00
+7,Airport,mid,Dr. Babasaheb Ambedkar Int'l,NAG,terminal,VANP,NAG,15,Dr. Babasaheb Ambedkar International Airport,4,1159119091,79.00,21.00
+7,Airport,mid,Phuket Int'l,HKT,terminal,VTSP,HKT,15,Phuket International Airport,4,1159119115,98.00,8.00
+7,Airport,mid,Nadi Int'l,#NUM!,terminal,NFFN,#NUM!,15,Nadi International Airport,4,1159119125,177.00,-18.00
+7,Airport,mid,Lic. Jesús Terán Peredo Int'l,AGU,terminal,MMAS,AGU,15,Lic. Jesús Terán Peredo International Airport,4,1159119145,-102.00,22.00
+7,Airport,mid,Albenga,ALL,ramp,LIMG,ALL,15,Albenga Airport,4,1159119157,8.00,44.00
+7,Airport,major,Queen Alia Int'l,AMM,terminal,OJAI,AMM,15,Queen Alia International Airport,4,1159119169,36.00,32.00
+7,Airport,mid,Chacalluta Int'l,ARI,terminal,SCAR,ARI,15,Chacalluta International Airport,4,1159119187,-70.00,-18.00
+7,Airport,mid,Atar Int'l,ATR,terminal,GQPA,ATR,15,Atar International Airport,4,1159119205,-13.00,20.00
+7,Airport,mid,Ernesto Cortissoz Int'l,BAQ,terminal,SKBQ,BAQ,15,Ernesto Cortissoz International Airport,4,1159119223,-75.00,11.00
+7,Airport,mid,Teniente Luis Candelaria Int'l,BRC,terminal,SAZS,BRC,15,San Carlos de Bariloche Airport,4,1159119237,-71.00,-41.00
+7,Airport,mid,Bouaké,BYK,terminal,DIBK,BYK,15,Bouaké Airport,4,1159119257,-5.00,8.00
+7,Airport,major,Philip S. W. Goldson Int'l,BZE,terminal,MZBZ,BZE,15,Philip S. W. Goldson International Airport,4,1159119267,-88.00,18.00
+7,Airport,major,Corpus Christi Int'l,CRP,terminal,KCRP,CRP,15,Corpus Christi International Airport,4,1159119285,-98.00,28.00
+7,Airport,mid,Hato Int'l,CUR,terminal,TNCC,CUR,15,Hato International Airport,4,1159119303,-69.00,12.00
+7,Airport,major,Velazco Astete Int'l,CUZ,terminal,SPZO,CUZ,15,Alejandro Velasco Astete International Airport,4,1159119321,-72.00,-14.00
+7,Airport,mid,Julius Nyerere Int'l,DAR,terminal,HTDA,DAR,15,Julius Nyerere International Airport,4,1159119341,39.00,-7.00
+7,Airport,mid,Detroit City,DET,terminal,KDET,DET,15,Coleman A. Young International Airport,4,1159119359,-83.00,42.00
+7,Airport,mid,Presidente Nicolau Lobato Int'l,DIL,terminal,WPDL,DIL,15,Presidente Nicolau Lobato International Airport,4,1159119377,126.00,-9.00
+7,Airport,major,Moscow Domodedovo Int'l,DME,terminal,UUDD,DME,15,Domodedovo International Airport,4,1159119395,38.00,55.00
+7,Airport,mid,Dunedin Int'l,DUD,terminal,NZDN,DUD,15,Dunedin International Airport,4,1159119413,170.00,-46.00
+7,Airport,mid,Dzaoudzi Pamanzi Int'l,DZA,terminal,FMCZ,DZA,15,Dzaoudzi Pamandzi International Airport,4,1159119431,45.00,-13.00
+7,Airport,mid,El Paso Int'l,ELP,terminal,KELP,ELP,15,El Paso International Airport,4,1159119449,-106.00,32.00
+7,Airport,major,Zvartnots Int'l,EVN,terminal,UDYZ,EVN,15,Zvartnots International Airport,4,1159119467,44.00,40.00
+7,Airport,major,Fort Worth Meacham Field,FTW,terminal,KFTW,FTW,15,Fort Worth Meacham International Airport,4,1159119485,-97.00,33.00
+7,Airport,mid,JAGS McCartney Int'l,GDT,terminal,MBGT,GDT,15,JAGS McCartney International Airport,4,1159119503,-71.00,21.00
+7,Airport,mid,Scholes Int'l,GLS,terminal,KGLS,GLS,15,Scholes International Airport at Galveston,4,1159119521,-95.00,29.00
+7,Airport,mid,Goma Int'l,GOM,terminal,FZNA,GOM,15,Goma International Airport,4,1159119539,29.00,-2.00
+7,Airport,mid,Garoua Int'l,GOU,terminal,FKKR,GOU,15,Garoua International Airport,4,1159119557,13.00,9.00
+7,Airport,major,Antonio B. Won Pat Int'l,GUM,terminal,PGUM,GUM,15,Antonio B. Won Pat International Airport,4,1159119575,145.00,13.00
+7,Airport,mid,Gary/Chicago Int'l,GYY,terminal,KGYY,GYY,15,Gary/Chicago International Airport,4,1159119593,-87.00,42.00
+7,Airport,mid,Prince Said Ibrahim Int'l,HAH,terminal,FMCH,HAH,15,Prince Said Ibrahim International Airport,4,1159119611,43.00,-12.00
+7,Airport,mid,Hobart Int'l,HBA,terminal,YMHB,HBA,15,Hobart International Airport,4,1159119629,148.00,-43.00
+7,Airport,mid,Honiara Int'l,HIR,terminal,AGGH,HIR,15,Honiara International Airport,4,1159119647,160.00,-9.00
+7,Airport,mid,Kiev Zhuliany Int'l,IEV,terminal,UKKK,IEV,15,Kyiv Zhuliany International Airport,4,1159119661,30.00,50.00
+7,Airport,mid and military,Irkutsk S.E.,IKT,terminal,UIII,IKT,15,International Airport Irkutsk,4,1159119677,104.00,52.00
+7,Airport,major,Indianapolis Int'l,IND,terminal,KIND,IND,15,Indianapolis International Airport,4,1159119691,-86.00,40.00
+7,Airport,mid,Nauru Int'l,INU,runway,ANYN,INU,15,Nauru International Airport,4,1159119715,167.00,-1.00
+7,Airport,mid,Mataveri Int'l,IPC,terminal,SCIP,IPC,15,Mataveri International Airport,4,1159119731,-109.00,-27.00
+7,Airport,mid,Gob. Horacio Guzman Int'l,JUJ,terminal,SASJ,JUJ,15,Gobernador Horacio Guzmán International Airport,4,1159119751,-65.00,-24.00
+7,Airport,mid,Nanchang Changbei Int'l,KHN,terminal,ZSCN,KHN,15,Nanchang Changbei International Airport,4,1159119767,116.00,29.00
+7,Airport,major,Kunming Wujiaba Int'l,KMG,terminal,ZPPP,KMG,15,Kunming Wujiaba International Airport,4,1159119791,103.00,25.00
+7,Airport,major,Leeds Bradford,LBA,terminal,EGNM,LBA,15,Leeds Bradford International Airport,4,1159119807,-2.00,54.00
+7,Airport,mid,Libreville Leon M'ba Int'l,LBV,terminal,FOOL,LBV,15,Libreville International Airport,4,1159119827,9.00,
+7,Airport,mid,Lomé Tokoin,LFW,terminal,DXXX,LFW,15,Lomé-Tokoin Airport,4,1159119841,1.00,6.00
+7,Airport,mid and military,Lviv Danylo Halytskyi Int'l,LWO,runway,UKLL,LWO,15,Lviv Danylo Halytskyi International Airport,4,1159119861,24.00,50.00
+7,Airport,mid,Marshall Islands Int'l,MAJ,terminal,PKMJ,MAJ,15,Marshall Islands International Airport,4,1159119881,171.00,7.00
+7,Airport,major,Macau Int'l,MFM,terminal,VMMC,MFM,15,Macau International Airport,4,1159119897,114.00,22.00
+7,Airport,mid,Aden Adde Int'l,MGQ,runway,HCMM,MGQ,15,Aden Adde International Airport,4,1159119917,45.00,2.00
+7,Airport,mid,Maputo Int'l,MPM,terminal,FQMA,MPM,15,Maputo International Airport,4,1159119939,33.00,-26.00
+7,Airport,mid,Sir Seewoosagur Ramgoolam Int'l,MRU,terminal,FIMP,MRU,15,Sir Seewoosagur Ramgoolam International Airport,4,1159119951,58.00,-20.00
+7,Airport,major,Naples Int'l,NAP,terminal,LIRN,NAP,15,Naples International Airport,4,1159119971,14.00,41.00
+7,Airport,mid,Nouadhibou Int'l,NDB,ramp,GQPP,NDB,15,Nouadhibou International Airport,4,1159119989,-17.00,21.00
+7,Airport,major,Ningbo Lishe Int'l,NGB,terminal,ZSNB,NGB,15,Ningbo Lishe International Airport,4,1159120005,121.00,30.00
+7,Airport,mid,Nouakchott Int'l,NKC,terminal,GQNN,NKC,15,Nouakchott–Oumtounsy International Airport,5,1159120023,-16.00,18.00
+7,Airport,mid,La Tontouta Int'l,NOU,terminal,NWWW,NOU,15,La Tontouta International Airport,4,1159120041,166.00,-22.00
+7,Airport,major,Oakland Int'l,OAK,terminal,KOAK,OAK,15,Oakland International Airport,4,1159120059,-122.00,38.00
+7,Airport,major,Ontario Int'l,ONT,parking,KONT,ONT,15,LA/Ontario International Airport,4,1159120085,-118.00,34.00
+7,Airport,major,Cork,ORK,terminal,EICK,ORK,15,Cork Airport,4,1159120103,-8.00,52.00
+7,Airport,mid,Minangkabau Int'l,PDG,terminal,WIMG,PDG,15,Minangkabau International Airport,5,1159120113,100.00,-1.00
+7,Airport,mid,João Paulo II,PDL,ramp,LPPD,PDL,15,João Paulo II Airport,4,1159120131,-26.00,38.00
+7,Airport,mid,Bacha Khan Int'l,PEW,ramp,OPPS,PEW,15,Bacha Khan International Airport,4,1159120157,72.00,34.00
+7,Airport,mid,Glasgow Prestwick,PIK,terminal,EGPK,PIK,15,Glasgow Prestwick Airport,4,1159120173,-5.00,56.00
+7,Airport,mid,Ponta Porã Int'l,PMG,terminal,SBPP,PMG,15,Ponta Porã International Airport,4,1159120193,-56.00,-23.00
+7,Airport,mid,Palmerston N. Int'l,PMR,terminal,NZPM,PMR,15,Palmerston North International Airport,4,1159120211,176.00,-40.00
+7,Airport,mid,Pohnpei Int'l,PNI,terminal,PTPN,PNI,15,Pohnpei International Airport,4,1159120225,158.00,7.00
+7,Airport,mid,Tahiti Faa'a Int'l,PPT,terminal,NTAA,PPT,15,Faa'a International Airport,2,1159120243,-150.00,-18.00
+7,Airport,major and military,Pisa Galileo Galilei Int'l,PSA,terminal,LIRP,PSA,15,Pisa International Airport,4,1159120263,10.00,44.00
+7,Airport,mid and military,Port Sudan,PZU,runway,HSSP,PZU,15,Port Sudan,4,1159120283,37.00,20.00
+7,Airport,mid,Praia Int'l,RAI,terminal,GVNP,RAI,15,Praia International Airport,4,1159120301,-23.00,15.00
+7,Airport,mid,Marrakech-Menara,RAK,terminal,GMMX,RAK,15,Marrakesh Menara Airport,4,1159120327,-8.00,32.00
+7,Airport,mid,Rarotonga Int'l,RAR,ramp,NCRG,RAR,15,Rarotonga International Airport,4,1159120337,-160.00,-21.00
+7,Airport,major,Siem Reap Int'l,REP,terminal,VDSR,REP,15,Siem Reap International Airport,4,1159120355,104.00,13.00
+7,Airport,mid,Hermes Quijada Int'l,RGA,terminal,SAWE,RGA,15,Rio Grande Airport,4,1159120379,-68.00,-54.00
+7,Airport,mid,Piloto Civil Norberto Fernandez Int'l,RGL,terminal,SAWG,RGL,15,Piloto Civil Norberto Fernández International Airport,4,1159120391,-69.00,-52.00
+7,Airport,major,Reno-Tahoe Int'l,RNO,terminal,KRNO,RNO,15,Reno–Tahoe International Airport,4,1159120419,-120.00,40.00
+7,Airport,mid,Roman Tmetuchl Int'l,ROR,terminal,PTRO,ROR,15,Roman Tmetuchl International Airport,4,1159120439,135.00,7.00
+7,Airport,mid,Amilcar Cabral Int'l,SID,terminal,GVAC,SID,15,Amílcar Cabral International Airport,4,1159120457,-23.00,17.00
+7,Airport,major,Sarajevo,SJJ,terminal,LQSA,SJJ,15,Sarajevo International Airport,4,1159120469,18.00,44.00
+7,Airport,mid,Robert L. Bradshaw Int'l,SKB,terminal,TKPK,SKB,15,Robert L. Bradshaw International Airport,4,1159120495,-63.00,17.00
+7,Airport,mid,Martín Miguel de Güemes Int,SLA,terminal,SASA,SLA,15,Martín Miguel de Güemes International Airport,4,1159120509,-65.00,-25.00
+7,Airport,mid,Saipan Int'l,SPN,terminal,PGSN,SPN,15,Saipan International Airport,4,1159120529,146.00,15.00
+7,Airport,mid,Juana Azurduy de Padilla Int'l,SRE,terminal,SLSU,SRE,15,Juana Azurduy de Padilla International Airport,4,1159120549,-65.00,-19.00
+7,Airport,major,Princess Juliana Int'l,SXM,terminal,TNCM,SXM,15,Princess Juliana International Airport,4,1159120567,-63.00,18.00
+7,Airport,mid,Ta'izz Int'l,TAI,terminal,OYTZ,TAI,15,Ta'izz International Airport,4,1159120583,44.00,14.00
+7,Airport,mid,Qingdao Liuting Int'l,TAO,terminal,ZSQD,TAO,15,Qingdao Liuting International Airport,4,1159120599,120.00,36.00
+7,Airport,mid,Chuuk Int'l,TKK,terminal,PTKK,TKK,15,Chuuk International Airport,4,1159120619,152.00,7.00
+7,Airport,mid,Tangier Ibn Battouta,TNG,terminal,GMTT,TNG,15,Tangier Ibn Battouta Airport,4,1159120637,-6.00,36.00
+7,Airport,mid,Bonriki Int'l,TRW,ramp,NGTA,TRW,15,Bonriki International Airport,4,1159120657,173.00,1.00
+7,Airport,major,Astana Int'l,TSE,terminal,UACC,TSE,15,Astana International Airport,4,1159120673,71.00,51.00
+7,Airport,major,Tianjin Binhai Int'l,TSN,terminal,ZBTJ,TSN,15,Tianjin Binhai International Airport,4,1159120679,117.00,39.00
+7,Airport,major and military,Townsville,TSV,terminal,YBTL,TSV,15,Townsville Airport,4,1159120709,147.00,-19.00
+7,Airport,mid,Teniente Gen. Benjamin Matienzo Int'l,TUC,terminal,SANT,TUC,15,Teniente Benjamín Matienzo International Airport,4,1159120721,-65.00,-27.00
+7,Airport,major,Aeroport Tunis,TUN,terminal,DTTA,TUN,15,Tunis–Carthage International Airport,4,1159120741,10.00,37.00
+7,Airport,major,Tucson Int'l,TUS,terminal,KTUS,TUS,15,Tucson International Airport,4,1159120761,-111.00,32.00
+7,Airport,mid,Chinggis Khaan Int'l,ULN,terminal,ZMUB,ULN,15,Chinggis Khaan International Airport,4,1159120783,107.00,48.00
+7,Airport,major,Ürümqi Diwopu Int'l,URC,terminal,ZWWW,URC,15,Ürümqi Diwopu International Airport,4,1159120799,87.00,44.00
+7,Airport,mid,Bauerfield Int'l,VLI,terminal,NVVV,VLI,15,Bauerfield International Airport,4,1159120811,168.00,-18.00
+7,Airport,mid,Wewak Int'l,WWK,terminal,AYWK,WWK,15,Wewak Airport,4,1159120821,144.00,-4.00
+7,Airport,military mid,Châlons Vatry,XCR,terminal,LFOK,XCR,15,Châlons Vatry Airport,4,1159120839,4.00,49.00
+7,Airport,major,Xiamen Gaoqi Int'l,XMN,terminal,ZSAM,XMN,15,Xiamen Gaoqi International Airport,4,1159120855,118.00,25.00
+7,Airport,mid,Yap Int'l,YAP,terminal,PTYA,YAP,15,Yap International Airport,4,1159120871,138.00,9.00
+7,Airport,mid,Playa de Oro Int'l,ZLO,terminal,MMZO,ZLO,15,Playa de Oro International Airport,4,1159120891,-105.00,19.00
+7,Airport,mid,Cayenne – Rochambeau,CAY,terminal,SOCA,CAY,15,Cayenne – Félix Eboué Airport,2,1159120909,-52.00,5.00
+7,Airport,mid,Irkutsk N.W.,UIII,ramp,UIIR,UIIR,15,Irkutsk Northwest Airport,4,1159120927,104.00,52.00
+7,Airport,major,Shijiazhuang Zhengding Int'l,SJW,terminal,ZBSJ,SJW,15,Shijiazhuang Zhengding International Airport,4,1159120939,115.00,38.00
+7,Airport,major,Heydar Aliyev Int'l,GYD,terminal,UBBB,GYD,15,Heydar Aliyev International Airport,4,1159120951,50.00,40.00
+7,Airport,military mid,Lakatamia Airbase,LAK,ramp,LCRO,LAK,15,,,1159120967,33.00,35.00
+7,Airport,mid,Cabo Frio Int'l,CFB,terminal,SBCB,CFB,15,Cabo Frio International Airport,4,1159120985,-42.00,-23.00
+7,Airport,mid,Helsinki-Malmi,HEM,terminal,EFHF,HEM,15,Helsinki-Malmi Airport,4,1159120997,25.00,60.00
+7,Airport,major,Luxembourg-Findel,LUX,terminal,ELLX,LUX,15,Luxembourg Airport,4,1159121013,6.00,50.00
+7,Airport,major,Venice Marco Polo,VCE,terminal,LIPZ,VCE,15,Venice Marco Polo Airport,4,1159121029,12.00,46.00
+7,Airport,mid,Yangyang Int'l,YNY,terminal,RKNY,YNY,15,Yangyang International Airport,4,1159121051,129.00,38.00
+7,Airport,mid,Tabatinga Int'l,TBT,terminal,SBTT,TBT,15,Tabatinga International Airport,4,1159121067,-70.00,-4.00
+7,Airport,mid,Boa Vista Int'l,BVB,terminal,SBBV,BVB,15,Boa Vista International Airport,4,1159121075,-61.00,3.00
+7,Airport,major,Gran Canaria,LPA,terminal,GCLP,LPA,15,Gran Canaria Airport,4,1159121091,-15.00,28.00
+7,Airport,mid,Com. Armando Tola Int'l,ING,terminal,SAWA,ING,15,Comandante Armando Tola International Airport,5,1159121107,-72.00,-50.00
+7,Airport,mid,Stockholm-Skavsta,NYO,terminal,ESKN,NYO,15,Stockholm Skavsta Airport,4,1159121125,17.00,59.00
+7,Airport,mid,Polonia Int'l,MES,terminal,WIMM,MES,15,Soewondo Air Force Base,4,1159121143,99.00,4.00
+7,Airport,mid,Bangui M'Poko Int'l,BGF,terminal,FEFF,BGF,15,Bangui M'Poko International Airport,4,1159121159,19.00,4.00
+7,Airport,major,Hangzhou Xiaoshan Int'l,HGH,terminal,ZSHC,HGH,15,Hangzhou Xiaoshan International Airport,5,1159121183,120.00,30.00
+7,Airport,mid,Cassidy Int'l,CXI,runway,PLCH,CXI,15,Cassidy International Airport,4,1159121195,-157.00,2.00
+7,Airport,mid,Šiauliai Int'l,SQQ,runway,EYSA,SQQ,15,Šiauliai International Airport,4,1159121207,23.00,56.00
+7,Airport,mid,Niue Int'l,IUE,terminal,NIUE,IUE,15,Niue International Airport,4,1159121227,-170.00,-19.00
+7,Airport,mid,Guaraní Int'l,AGT,terminal,SGES,AGT,15,Guaraní International Airport,4,1159121237,-55.00,-25.00
+7,Airport,mid,Rodríguez Ballón Int'l,AQP,terminal,SPQU,AQP,15,Rodríguez Ballón International Airport,4,1159121253,-72.00,-16.00
+7,Airport,mid and military,Vladivostok Int'l,VVO,terminal,UHWW,VVO,15,Vladivostok International Airport,4,1159121269,132.00,43.00
+7,Airport,major,Pristina,PRN,ramp,BKPR,PRN,15,Pristina International Airport Adem Jashari,4,1159121283,21.00,43.00
+6,Airport,mid,Deurne,ANR,terminal,EBAW,ANR,20,Antwerp International Airport,4,1159121297,4.00,51.00
+6,Airport,mid,Gen. Márquez de León Int'l,LAP,terminal,MMLP,LAP,20,Manuel Márquez de León International Airport,4,1159121317,-110.00,24.00
+6,Airport,major,Harbin Taiping,HRB,terminal,ZYHB,HRB,20,Harbin Taiping International Airport,4,1159121329,126.00,46.00
+6,Airport,mid,Trivandrum Int'l,TRV,terminal,VOTV,TRV,20,Trivandrum International Airport,4,1159121343,77.00,8.00
+6,Airport,major,Adnan Menderes,ADB,terminal,LTBJ,ADB,20,Adnan Menderes Airport,4,1159121355,27.00,38.00
+6,Airport,major,Nanjing Lukou Int'l,NKG,terminal,ZSNJ,NKG,20,Nanjing Lukou International Airport,4,1159121375,119.00,32.00
+6,Airport,mid,Freeport Int'l,FPO,terminal,MYGF,FPO,20,Grand Bahama International Airport,4,1159121395,-79.00,27.00
+6,Airport,major,Tripoli Int'l,TIP,terminal,HLLT,TIP,20,Tripoli International Airport,4,1159121401,13.00,33.00
+6,Airport,mid,Gander Int'l,YQX,terminal,CYQX,YQX,20,Gander International Airport,4,1159121427,-55.00,49.00
+6,Airport,major and military,Doha Int'l,DOH,terminal,OTBD,DOH,20,Doha International Airport,4,1159121441,52.00,25.00
+6,Airport,major,Albuquerque Int'l,ABQ,terminal,KABQ,ABQ,20,Albuquerque International Sunport,4,1159121449,-107.00,35.00
+6,Airport,mid,V.C. Bird Int'l,ANU,terminal,TAPA,ANU,20,V. C. Bird International Airport,4,1159121465,-62.00,17.00
+6,Airport,mid,Faleolo,APW,terminal,NSFA,APW,20,Faleolo International Airport,4,1159121481,-172.00,-14.00
+6,Airport,mid,Asyut,ATZ,terminal,HEAT,ATZ,20,Assiut Airport,4,1159121497,31.00,27.00
+6,Airport,major,Bahrain Int'l,BAH,terminal,OBBI,BAH,20,Bahrain International Airport,4,1159121515,51.00,26.00
+6,Airport,major,Bradley Int'l,BDL,terminal,KBDL,BDL,20,Bradley International Airport,4,1159121531,-73.00,42.00
+6,Airport,mid,Grantley Adams Int'l,BGI,terminal,TBPB,BGI,20,Grantley Adams International Airport,4,1159121545,-59.00,13.00
+6,Airport,mid,Yundum Int'l,BJL,terminal,GBYD,BJL,20,Banjul International Airport,4,1159121561,-17.00,13.00
+6,Airport,mid,Bujumbura Int'l,BJM,terminal,HBBA,BJM,20,Bujumbura International Airport,4,1159121577,29.00,-3.00
+6,Airport,mid,Chileka Int'l,BLZ,terminal,FWCL,BLZ,20,Chileka International Airport,4,1159121581,35.00,-16.00
+6,Airport,mid,Broome Int'l,BME,terminal,YBRM,BME,20,Broome International Airport,4,1159121597,122.00,-18.00
+6,Airport,mid,Bandar Abbass Int'l,BND,terminal,OIKB,BND,20,Bandar Abbas International Airport,4,1159121625,56.00,27.00
+6,Airport,major,Basrah Int'l,BSR,terminal,ORMM,BSR,20,Basra International Airport,4,1159121643,48.00,31.00
+6,Airport,mid,Ciudad Juarez Int'l,CJS,terminal,MMCS,CJS,20,Abraham González International Airport,4,1159121657,-106.00,32.00
+6,Airport,major,Katunayake Int'l,CMB,terminal,VCBI,CMB,20,Bandaranaike International Airport,4,1159121665,80.00,7.00
+6,Airport,mid,Cairns Int'l,CNS,terminal,YBCS,CNS,20,Cairns Airport,4,1159121685,146.00,-17.00
+6,Airport,major,Chiang Mai Int'l,CNX,terminal,VTCC,CNX,20,Chiang Mai International Airport,4,1159121695,99.00,19.00
+6,Airport,major,City of Colorado Springs,COS,terminal,KCOS,COS,20,Colorado Springs Airport,4,1159121711,-105.00,39.00
+6,Airport,mid,Ign. Alberto Ongay Int'l,CPE,terminal,MMCP,CPE,20,Ing. Alberto Acuña Ongay International Airport,4,1159121725,-91.00,20.00
+6,Airport,major,Changsha Huanghua Int'l,CSX,terminal,ZGHA,CSX,20,Changsha Huanghua International Airport,4,1159121747,113.00,28.00
+6,Airport,major,Greater Cincinnati Int'l,CVG,terminal,KCVG,CVG,20,Cincinnati/Northern Kentucky International Airport,4,1159121765,-85.00,39.00
+6,Airport,major,Da Nang,DAD,terminal,VVDN,DAD,20,Da Nang International Airport,4,1159121783,108.00,16.00
+6,Airport,major,Dallas Love Field,DAL,terminal,KDAL,DAL,20,Dallas Love Field,4,1159121793,-97.00,33.00
+6,Airport,major,Damascus Int'l,DAM,terminal,OSDI,DAM,20,Damascus International Airport,4,1159121825,37.00,33.00
+6,Airport,mid,Enrique Malek Int'l,DAV,terminal,MPDA,DAV,20,Enrique Malek International Airport,4,1159121841,-82.00,8.00
+6,Airport,mid,Aba Tenna D. Yilma Int'l,DIR,terminal,HADR,DIR,20,Aba Tenna Dejazmach Yilma International Airport,4,1159121857,42.00,10.00
+6,Airport,major,Bali Int'l,DPS,terminal,WADD,DPS,20,Ngurah Rai International Airport,4,1159121877,115.00,-9.00
+6,Airport,major,Des Moines Int'l,DSM,terminal,KDSM,DSM,20,Des Moines International Airport,2,1159121895,-94.00,42.00
+6,Airport,mid,Entebbe Int'l,EBB,terminal,HUEN,EBB,20,Entebbe International Airport,4,1159121903,32.00,
+6,Airport,mid,Kisangani Bangoka Int'l,FKI,terminal,FZIC,FKI,20,Bangoka International Airport,4,1159121921,25.00,
+6,Airport,mid,Fuzhou Changle Int'l,FOC,terminal,ZSFZ,FOC,20,Fuzhou Changle International Airport,4,1159121937,120.00,26.00
+6,Airport,mid,Lokpriya G. Bordoloi Int'l,GAU,terminal,VEGT,GAU,20,Lokpriya Gopinath Bordoloi International Airport,4,1159121953,92.00,26.00
+6,Airport,major,Gdansk Lech Walesa,GDN,terminal,EPGD,GDN,20,Gdańsk Lech Wałęsa Airport,4,1159121969,18.00,54.00
+6,Airport,mid,Point Salines Int'l,GND,terminal,TGPY,GND,20,Maurice Bishop International Airport,4,1159121987,-62.00,12.00
+6,Airport,mid,Nizhny Novgorod Int'l,GOJ,terminal,UWGG,GOJ,20,Nizhny Novgorod International Airport,4,1159122005,44.00,56.00
+6,Airport,mid,Gen. José M. Yáñez Int'l,GYM,terminal,MMGM,GYM,20,General José María Yáñez International Airport,4,1159122023,-111.00,28.00
+6,Airport,mid,Hohhot Baita Int'l,HET,terminal,ZBHH,HET,20,Hohhot Baita International Airport,4,1159122037,112.00,41.00
+6,Airport,mid,Helena Reg.,HLN,terminal,KHLN,HLN,20,Helena Regional Airport,4,1159122049,-112.00,47.00
+6,Airport,mid,Gen. Ignacio P. Garcia Int'l,HMO,terminal,MMHO,HMO,20,General Ignacio Pesqueira García International Airport,4,1159122065,-111.00,29.00
+6,Airport,major,Dulles Int'l,IAD,terminal,KIAD,IAD,20,Washington Dulles International Airport,4,1159122081,-77.00,39.00
+6,Airport,mid,Hilo Int'l,ITO,terminal,PHTO,ITO,20,Hilo International Airport,4,1159122097,-155.00,20.00
+6,Airport,major,Jackson Int'l,JAN,terminal,KJAN,JAN,20,Jackson-Evers International Airport,4,1159122113,-90.00,32.00
+6,Airport,major,Jacksonville Int'l,JAX,terminal,KJAX,JAX,20,Jacksonville International Airport,4,1159122129,-82.00,30.00
+6,Airport,mid,Kuching Int'l,KCH,terminal,WBGG,KCH,20,Kuching International Airport,4,1159122145,110.00,1.00
+6,Airport,mid,Kigali Int'l,KGL,terminal,HRYR,KGL,20,Kigali International Airport,4,1159122161,30.00,-2.00
+6,Airport,major,Kraków-Balice,KRK,terminal,EPKK,KRK,20,John Paul II International Airport Kraków-Balice,5,1159122175,20.00,50.00
+6,Airport,major,Kurumoch,KUF,terminal,UWWW,KUF,20,Kurumoch International Airport,4,1159122191,50.00,54.00
+6,Airport,major,Guilin Liangjiang Int'l,KWL,terminal,ZGKL,KWL,20,Guilin Liangjiang International Airport,4,1159122207,110.00,25.00
+6,Airport,mid,Laoag Int'l,LAO,terminal,RPLI,LAO,20,Laoag International Airport,4,1159122223,121.00,18.00
+6,Airport,major,LaGuardia,LGA,terminal,KLGA,LGA,20,LaGuardia Airport,4,1159122233,-74.00,41.00
+6,Airport,major,London Gatwick,LGW,terminal,EGKK,LGW,20,Gatwick Airport,4,1159122245,,51.00
+6,Airport,major,Ljubljana,LJU,terminal,LJLJ,LJU,20,Ljubljana Jože Pučnik Airport,4,1159122261,14.00,46.00
+6,Airport,mid,Amausi Int'l,LKO,terminal,VILK,LKO,20,Chaudhary Charan Singh Airport,4,1159122291,81.00,27.00
+6,Airport,mid,La Plata,LPG,terminal,SADL,LPG,20,La Plata Airport,4,1159122295,-58.00,-35.00
+6,Airport,mid,Gen. Sevando Canales,MAM,terminal,MMMA,MAM,20,General Servando Canales International Airport,4,1159122307,-98.00,26.00
+6,Airport,major,Manchester Int'l,MAN,terminal,EGCC,MAN,20,Manchester Airport,4,1159122331,-2.00,53.00
+6,Airport,major,Kansas City Int'l,MCI,terminal,KMCI,MCI,20,Kansas City International Airport,4,1159122347,-95.00,39.00
+6,Airport,major,Seeb Int'l,MCT,terminal,OOMS,MCT,20,Muscat International Airport,4,1159122367,58.00,24.00
+6,Airport,mid,Habib Bourguiba Int'l,MIR,terminal,DTMB,MIR,20,Monastir Habib Bourguiba International Airport,4,1159122379,11.00,36.00
+6,Airport,major,Marseille Provence Airport,MRS,terminal,LFML,MRS,20,Marseille Provence Airport,4,1159122391,5.00,43.00
+6,Airport,mid,Quetzalcoatl Int'l,NLD,terminal,MMNL,NLD,20,Quetzalcóatl International Airport,4,1159122413,-100.00,27.00
+6,Airport,major,Nanning Wuwu Int'l,NNG,terminal,ZGNN,NNG,20,Nanning Wuxu International Airport,4,1159122427,108.00,23.00
+6,Airport,mid,Xoxocotlán Int'l,OAX,terminal,MMOX,OAX,20,Xoxocotlán International Airport,4,1159122443,-97.00,17.00
+6,Airport,mid,Kahului,OGG,terminal,PHOG,OGG,20,Kahului Airport,4,1159122457,-156.00,21.00
+6,Airport,major,Will Rogers,OKC,terminal,KOKC,OKC,20,Will Rogers World Airport,4,1159122523,-98.00,35.00
+6,Airport,major,Norfolk Int'l,ORF,terminal,KORF,ORF,20,Norfolk International Airport,4,1159122535,-76.00,37.00
+6,Airport,major,Palm Beach Int'l,PBI,terminal,KPBI,PBI,20,Palm Beach International Airport,4,1159122547,-80.00,27.00
+6,Airport,mid,Pengel Int'l,PBM,terminal,SMJP,PBM,20,Johan Adolf Pengel International Airport,4,1159122565,-55.00,5.00
+6,Airport,mid,Bolshesavino,PEE,terminal,USPP,PEE,20,Bolshoye Savino Airport,4,1159122579,56.00,58.00
+6,Airport,mid,Penang Int'l,PEN,terminal,WMKP,PEN,20,Penang International Airport,4,1159122593,100.00,5.00
+6,Airport,mid,Port Harcourt Int'l,PHC,terminal,DNPO,PHC,20,Port Harcourt International Airport,4,1159122607,7.00,5.00
+6,Airport,mid,Port Hedland Int'l,PHE,terminal,YPPD,PHE,20,Port Hedland International Airport,4,1159122623,119.00,-20.00
+6,Airport,mid,Pierre Regional,PIR,terminal,KPIR,PIR,20,Pierre Regional Airport,4,1159122639,-100.00,44.00
+6,Airport,major,Greater Pittsburgh Int'l,PIT,terminal,KPIT,PIT,20,Pittsburgh International Airport,4,1159122655,-80.00,40.00
+6,Airport,mid,Pago Pago Int'l,PPG,terminal,NSTU,PPG,20,Pago Pago International Airport,4,1159122671,-171.00,-14.00
+6,Airport,major,Birmingham Int'l,BHX,terminal,EGBB,BHX,20,Birmingham Airport,4,1159122687,-2.00,52.00
+6,Airport,mid,Roberts Int'l,ROB,terminal,GLRB,ROB,20,Roberts International Airport,4,1159122703,-10.00,6.00
+6,Airport,mid,Raipur,RPR,terminal,VARP,RPR,20,Swami Vivekananda Airport,4,1159122719,82.00,21.00
+6,Airport,mid,El Salvador Int'l,SAL,terminal,MSLP,SAL,20,Monseñor Óscar Arnulfo Romero International Airport,2,1159122733,-89.00,13.00
+6,Airport,major,San Diego Int'l,SAN,terminal,KSAN,SAN,20,San Diego International Airport,4,1159122749,-117.00,33.00
+6,Airport,major,San Antonio Int'l,SAT,terminal,KSAT,SAT,20,San Antonio International Airport,4,1159122765,-98.00,30.00
+6,Airport,major,Savannah Int'l,SAV,terminal,KSAV,SAV,20,Savannah/Hilton Head International Airport,2,1159122799,-81.00,32.00
+6,Airport,mid,Antonio Maceo,SCU,terminal,MUCU,SCU,20,Antonio Maceo Airport,4,1159122811,-76.00,20.00
+6,Airport,mid,Ponciano Arriaga Int'l,SLP,terminal,MMSP,SLP,20,San Luis Potosí International Airport,4,1159122827,-101.00,22.00
+6,Airport,major,Sacramento Int'l,SMF,terminal,KSMF,SMF,20,Sacramento International Airport,4,1159122841,-122.00,39.00
+6,Airport,mid,Cibao Int'l,STI,terminal,MDST,STI,20,Cibao International Airport,2,1159122849,-71.00,19.00
+6,Airport,major,Koltsovo,SVX,terminal,USSS,SVX,20,Koltsovo Airport,4,1159122855,61.00,57.00
+6,Airport,major,Syracuse Hancock Int'l,SYR,terminal,KSYR,SYR,20,Syracuse Hancock International Airport,4,1159122871,-76.00,43.00
+6,Airport,mid,Tabriz,TBZ,terminal,OITT,TBZ,20,Tabriz International Airport,4,1159122885,46.00,38.00
+6,Airport,mid,Torreon Int'l,TRC,terminal,MMTC,TRC,20,Francisco Sarabia International Airport,4,1159122893,-103.00,26.00
+6,Airport,major,Tulsa Int'l,TUL,terminal,KTUL,TUL,20,Tulsa International Airport,4,1159122919,-96.00,36.00
+6,Airport,major,Mcghee Tyson,TYS,terminal,KTYS,TYS,20,McGhee Tyson Airport,4,1159122935,-84.00,36.00
+6,Airport,major,Ufa Int'l,UFA,terminal,UWUU,UFA,20,Ufa International Airport,4,1159122947,56.00,55.00
+6,Airport,mid,Hewanorra Int'l,UVF,terminal,TLPL,UVF,20,Hewanorra International Airport,4,1159122963,-61.00,14.00
+6,Airport,mid,Windhoek Hosea Kutako Int'l,WDH,terminal,FYWH,WDH,20,Windhoek Hosea Kutako International Airport,4,1159122979,17.00,-22.00
+6,Airport,mid,Sault Ste Marie,YAM,terminal,CYAM,YAM,20,Sault Ste. Marie Airport,4,1159122997,-85.00,46.00
+6,Airport,mid,Dawson Cr.,YDQ,terminal,CYDQ,YDQ,20,Dawson Creek Airport,4,1159123009,-120.00,56.00
+6,Airport,major,Edmonton Int'l,YEG,terminal,CYEG,YEG,20,Edmonton International Airport,4,1159123027,-114.00,53.00
+6,Airport,major,Halifax Int'l,YHZ,terminal,CYHZ,YHZ,20,Halifax Stanfield International Airport,4,1159123039,-64.00,45.00
+6,Airport,mid,Kamloops,YKA,terminal,CYKA,YKA,20,Kamloops Airport,4,1159123055,-120.00,51.00
+6,Airport,mid,Sudbury,YSB,terminal,CYSB,YSB,20,Sudbury Airport,4,1159123071,-81.00,47.00
+6,Airport,mid,Saint John,YSJ,terminal,CYSJ,YSJ,20,Saint John Airport,4,1159123087,-66.00,45.00
+6,Airport,mid,Prince George,YXS,terminal,CYXS,YXS,20,Prince George Airport,4,1159123103,-123.00,54.00
+6,Airport,major,Victoria Int'l,YYJ,terminal,CYYJ,YYJ,20,Victoria International Airport,4,1159123119,-123.00,49.00
+6,Airport,mid,Zamboanga Int'l,ZAM,terminal,RPMZ,ZAM,20,Zamboanga International Airport,4,1159123129,122.00,7.00
+6,Airport,mid,Lanzhou Zhongchuan,ZGC,terminal,ZLLL,ZGC,20,Lanzhou Zhongchuan International Airport,4,1159123147,104.00,37.00
+6,Airport,mid,Albany Int'l,ALB,terminal,KALB,ALB,20,Albany International Airport,4,1159123169,-74.00,43.00
+6,Airport,major,General Mitchell Int'l,MKE,terminal,KMKE,MKE,20,General Mitchell International Airport,4,1159123177,-88.00,43.00
+6,Airport,military mid,Wang-Chia Tun Airbase,ZHHH,runway,,,20,Wuhan Tianhe International Airport,5,1159123197,114.00,31.00
+6,Airport,major,Sanya Phoenix Int'l,SYX,terminal,ZJSY,SYX,20,Sanya Phoenix International Airport,4,1159123211,109.00,18.00
+6,Airport,mid,Lhasa Gonggar,LXA,terminal,ZULS,LXA,20,Lhasa Gonggar Airport,4,1159123223,91.00,29.00
+6,Airport,mid,Hotan,HTN,terminal,ZWTN,HTN,20,Hotan Airport,4,1159123235,80.00,37.00
+6,Airport,major,Dresden,DRS,terminal,EDDC,DRS,20,Dresden Airport,4,1159123251,14.00,51.00
+6,Airport,military major,Kenitra Air Base,NNA,terminal,GMMY,NNA,20,Kenitra Air Base,4,1159123267,-7.00,34.00
+6,Airport,mid,Annemasse,QNJ,ramp,LFLI,QNJ,20,Annemasse Aerodrome,4,1159123277,6.00,46.00
+6,Airport,mid,Nogales Int'l,NOG,terminal,MMNG,NOG,20,Nogales International Airport,4,1159123287,-111.00,31.00
+6,Airport,mid,Strasbourg,SXB,terminal,LFST,SXB,20,Strasbourg Airport,4,1159123303,8.00,49.00
+6,Airport,major,Cologne/Bonn,CGN,terminal,EDDK,CGN,20,Cologne Bonn Airport,4,1159123317,7.00,51.00
+6,Airport,major,Kimhae Int'l,PUS,terminal,RKPK,PUS,20,Gimhae International Airport,2,1159123337,129.00,35.00
+6,Airport,major,Jeju Int'l,CJU,terminal,RKPC,CJU,20,Jeju International Airport,4,1159123353,126.00,34.00
+6,Airport,major,Stavanger Sola,SVG,terminal,ENZV,SVG,20,Stavanger Airport,4,1159123367,6.00,59.00
+6,Airport,major,Trondheim Vaernes,TRD,terminal,ENVA,TRD,20,Trondheim Airport,4,1159123387,11.00,63.00
+6,Airport,mid,Corumbá Int'l,CMG,terminal,SBCR,CMG,20,Corumbá International Airport,4,1159123405,-58.00,-19.00
+6,Airport,mid,Madeira,FNC,terminal,LPMA,FNC,20,Cristiano Ronaldo Airport,4,1159123417,-17.00,33.00
+6,Airport,mid,Foz do Iguaçu Int'l,IGU,terminal,SBFI,IGU,20,Foz do Iguaçu International Airport,4,1159123433,-54.00,-26.00
+6,Airport,mid,Gov. Jorge Teixeira de Oliveira Int'l,PVH,terminal,SBPV,PVH,20,Governador Jorge Teixeira de Oliveira International Airport,4,1159123449,-64.00,-9.00
+6,Airport,mid,Bilbao,BIO,terminal,LEBB,BIO,20,Bilbao Airport,4,1159123469,-3.00,43.00
+6,Airport,major,Palma de Mallorca,PMI,terminal,LEPA,PMI,20,Palma de Mallorca Airport,4,1159123487,3.00,40.00
+6,Airport,major,Tenerife N.,TFN,terminal,GCXO,TFN,20,Tenerife North Airport,4,1159123501,-16.00,28.00
+6,Airport,major,Gothenburg,GOT,terminal,ESGG,GOT,20,Gothenburg-Landvetter Airport,4,1159123513,12.00,58.00
+6,Airport,major,Lulea,LLA,terminal,ESPA,LLA,20,Luleå Airport,4,1159123529,22.00,66.00
+6,Airport,major,Abu Dhabi Int'l,AUH,terminal,OMAA,AUH,20,Abu Dhabi International Airport,4,1159123541,55.00,24.00
+6,Airport,mid,Mohamed Boudiaf Int'l,CZL,terminal,DABC,CZL,20,Mohamed Boudiaf International Airport,4,1159123557,7.00,36.00
+6,Airport,mid,Aswan Int'l,ASW,terminal,HESN,ASW,20,Aswan International Airport,4,1159123573,33.00,24.00
+6,Airport,mid,Rovaniemi,RVN,terminal,EFRO,RVN,20,Rovaniemi Airport,4,1159123589,26.00,67.00
+6,Airport,mid,Cheddi Jagan Int'l,GEO,terminal,SYCJ,GEO,20,Cheddi Jagan International Airport,4,1159123603,-58.00,6.00
+6,Airport,major,Cochin Int'l,COK,terminal,VOCI,COK,20,Cochin International Airport,4,1159123615,76.00,10.00
+6,Airport,mid,Eldoret Int'l,EDL,terminal,HKEL,EDL,20,Eldoret International Airport,4,1159123629,35.00,
+6,Airport,major,Incheon Int'l,ICN,terminal,RKSI,ICN,20,Incheon International Airport,4,1159123643,126.00,37.00
+6,Airport,mid,Federal de Bachigualato Int'l,CUL,terminal,MMCL,CUL,20,Federal de Bachigualato International Airport,4,1159123657,-107.00,25.00
+6,Airport,major and military,Benazir Bhutto Int'l,ISB,terminal,OPRN,ISB,20,Islamabad International AirPort,4,1159123669,73.00,34.00
+5,Airport,major,Brussels,BRU,terminal,EBBR,BRU,30,Brussels Airport,4,1159123683,4.00,51.00
+5,Airport,major,Abuja Int'l,ABV,terminal,DNAA,ABV,30,Nnamdi Azikiwe International Airport,4,1159123699,7.00,9.00
+5,Airport,mid,Arcata-Eureka,ACV,terminal,KACV,ACV,30,Arcata-Eureka Airport,4,1159123711,-124.00,41.00
+5,Airport,major,Austin-Bergstrom Int'l,AUS,terminal,KAUS,AUS,30,Austin-Bergstrom International Airport,4,1159123731,-98.00,30.00
+5,Airport,major,Antalya,AYT,terminal,LTAI,AYT,30,Antalya International Airport,4,1159123747,31.00,37.00
+5,Airport,major,Belfast Int'l,BFS,terminal,EGAA,BFS,30,Belfast International Airport,4,1159123759,-6.00,55.00
+5,Airport,major,Orio Al Serio,BGY,terminal,LIME,BGY,30,Il Caravaggio International Airport,4,1159123777,10.00,46.00
+5,Airport,mid,Kota Kinabalu Int'l,BKI,terminal,WBKK,BKI,30,Kota Kinabalu International Airport,4,1159123793,116.00,6.00
+5,Airport,major,Bengaluru Int'l,BLR,terminal,VOBL,BLR,30,Kempegowda International Airport,4,1159123807,78.00,13.00
+5,Airport,major,Canberra Int'l,CBR,terminal,YSCB,CBR,30,Canberra International Airport,4,1159123827,149.00,-35.00
+5,Airport,major,Port Columbus Int'l,CMH,terminal,KCMH,CMH,30,John Glenn Columbus International Airport,4,1159123845,-83.00,40.00
+5,Airport,major,Mohamed V Int'l,CMN,terminal,GMMN,CMN,30,Mohammed V International Airport,4,1159123861,-8.00,33.00
+5,Airport,major,Düsseldorf Int'l,DUS,terminal,EDDL,DUS,30,Düsseldorf International Airport,4,1159123877,7.00,51.00
+5,Airport,major,Esenboğa Int'l,ESB,terminal,LTAC,ESB,30,Esenboğa International Airport,4,1159123885,33.00,40.00
+5,Airport,mid,Hamilton Int'l,HLZ,terminal,NZHN,HLZ,30,Hamilton International Airport,4,1159123897,175.00,-38.00
+5,Airport,major,Rajiv Gandhi Int'l,HYD,terminal,VOHS,HYD,30,Rajiv Gandhi International Airport,4,1159123911,78.00,17.00
+5,Airport,major,John F Kennedy Int'l,JFK,parking,KJFK,JFK,30,John F. Kennedy International Airport,4,1159123927,-74.00,41.00
+5,Airport,major,Boryspil Int'l,KBP,terminal,UKBB,KBP,30,Boryspil International Airport,4,1159123937,31.00,50.00
+5,Airport,major,Khartoum,KRT,terminal,HSSS,KRT,30,Khartoum International Airport,4,1159123949,33.00,16.00
+5,Airport,major,Dane Cty. Reg. (Truax Field),MSN,terminal,KMSN,MSN,30,Dane County Regional Airport,4,1159123961,-89.00,43.00
+5,Airport,major,Minsk Int'l,MSQ,terminal,UMMS,MSQ,30,Minsk National Airport,4,1159123971,28.00,54.00
+5,Airport,major,Palermo,PMO,terminal,LICJ,PMO,30,Falcone–Borsellino Airport,4,1159123985,13.00,38.00
+5,Airport,mid,T.F. Green,PVD,terminal,KPVD,PVD,30,T. F. Green Airport,4,1159123997,-71.00,42.00
+5,Airport,major,Southwest Florida Int'l,RSW,terminal,KRSW,RSW,30,Southwest Florida International Airport,4,1159124011,-82.00,27.00
+5,Airport,major,Shenyang Taoxian Int'l,SHE,terminal,ZYTX,SHE,30,Shenyang Taoxian International Airport,4,1159124023,123.00,42.00
+5,Airport,major,Sharjah Int'l,SHJ,terminal,OMSJ,SHJ,30,Sharjah International Airport,4,1159124037,56.00,25.00
+5,Airport,major,San Jose Int'l,SJC,terminal,KSJC,SJC,30,San Jose International Airport,4,1159124047,-122.00,37.00
+5,Airport,major,John Wayne,SNA,terminal,KSNA,SNA,30,John Wayne Airport,4,1159124063,-118.00,34.00
+5,Airport,major,Stuttgart,STR,terminal,EDDS,STR,30,Stuttgart Airport,4,1159124071,9.00,49.00
+5,Airport,mid,Nacional Tobías Bolaños,SYQ,terminal,MRPV,SYQ,30,Tobías Bolaños International Airport,2,1159124093,-84.00,10.00
+5,Airport,major,Shenzhen Bao'an Int'l,SZX,terminal,ZGSZ,SZX,30,Shenzhen Bao'an International Airport,4,1159124107,114.00,23.00
+5,Airport,major,Louisville Int'l,SDF,terminal,KSDF,SDF,30,Louisville International Airport,4,1159124125,-86.00,38.00
+5,Airport,major,Geneva,GVA,terminal,LSGG,GVA,30,Geneva International Airport,4,1159124135,6.00,46.00
+5,Airport,mid,Lyon-Saint Exupery,LYS,terminal,LFLL,LYS,30,Lyon-Saint Exupéry Airport,4,1159124145,5.00,46.00
+5,Airport,major,Kansai Int'l,KIX,terminal,RJBB,KIX,30,Kansai International Airport,4,1159124163,135.00,34.00
+5,Airport,major,Lisbon Portela,LIS,terminal,LPPT,LIS,30,Lisbon Airport,4,1159124181,-9.00,39.00
+5,Airport,major,Tancredo Neves Int'l,CNF,terminal,SBCF,CNF,30,Tancredo Neves International Airport,4,1159124197,-44.00,-20.00
+5,Airport,mid,Bromma,BMA,terminal,ESSB,BMA,30,Stockholm Bromma Airport,4,1159124213,18.00,59.00
+5,Airport,major,Juanda Int'l,SUB,terminal,WARR,SUB,30,Juanda International Airport,4,1159124227,113.00,-7.00
+5,Airport,mid,Astor Piazzolla Int'l,MDQ,terminal,SAZM,MDQ,30,Astor Piazzolla International Airport,4,1159124243,-58.00,-38.00
+5,Airport,major,Owen Roberts Int'l,GCM,terminal,MWCR,GCM,30,Owen Roberts International Airport,4,1159124261,-81.00,19.00
+5,Airport,major,Zhengzhou Xinzheng Int'l,CGO,terminal,ZHCC,CGO,30,Zhengzhou Xinzheng International Airport,4,1159124277,114.00,35.00
+5,Airport,major,Dalian Zhoushuizi Int'l,DLC,terminal,ZYTL,DLC,30,Dalian Zhoushuizi International Airport,4,1159124289,122.00,39.00
+5,Airport,major,Heraklion Int'l,HER,terminal,LGIR,HER,30,Heraklion International Airport,4,1159124303,25.00,35.00
+5,Airport,major,Tbilisi Int'l,TBS,terminal,UGTB,TBS,30,Tbilisi International Airport,4,1159124315,45.00,42.00
+5,Airport,mid,Cascais,XXC,runway,LPCS,XXC,30,Cascais Municipal Aerodrome,4,1159124329,-9.00,39.00
+4,Airport,major,Kaohsiung Int'l,KHH,terminal,RCKH,KHH,50,Kaohsiung International Airport,4,1159124343,120.00,23.00
+4,Airport,mid,Sadiq Abubakar III,SKO,terminal,DNSO,SKO,50,Sadiq Abubakar III International Airport,4,1159124357,5.00,13.00
+4,Airport,mid,Mariscal Sucre Int'l,UIO,terminal,SEQU,UIO,50,Mariscal Sucre International Airport,2,1159124369,-78.00,
+4,Airport,mid,Karachi Civil,KHI,terminal,OPKC,KHI,50,Jinnah International Airport,2,1159124383,67.00,25.00
+4,Airport,mid,Kishinev S.E.,KIV,terminal,LUKK,KIV,50,Chișinău International Airport,2,1159124397,29.00,47.00
+4,Airport,major,Jorge Chávez,LIM,terminal,SPIM,LIM,50,Jorge Chávez International Airport,5,1159124405,-77.00,-12.00
+4,Airport,mid,Thunder Bay Int'l,YQT,terminal,CYQT,YQT,50,Thunder Bay International Airport,4,1159124423,-89.00,48.00
+4,Airport,major,Vilnius,VNO,terminal,EYVI,VNO,50,Vilnius Airport,4,1159124435,25.00,55.00
+4,Airport,major,Hsien Yang,XIY,terminal,ZLXY,XIY,50,Xi'an Xianyang International Airport,2,1159124447,109.00,34.00
+4,Airport,mid,Del Norte Int'l,NTR,terminal,MMAN,NTR,50,Del Norte International Airport,4,1159124461,-100.00,26.00
+4,Airport,mid,Fua'amotu Int'l,TBU,terminal,NFTF,TBU,50,Fuaʻamotu International Airport,4,1159124471,-175.00,-21.00
+4,Airport,mid,Esfahan Int'l,IFN,terminal,OIFM,IFN,50,Isfahan International Airport,4,1159124485,52.00,33.00
+4,Airport,mid,Harare Int'l,HRE,terminal,FVHA,HRE,50,Harare International Airport,4,1159124495,31.00,-18.00
+4,Airport,major,Kuwait Int'l,KWI,terminal,OKBK,KWI,50,Kuwait International Airport,4,1159124511,48.00,29.00
+4,Airport,major,Macdonald-Cartier Int'l,YOW,terminal,CYOW,YOW,50,Ottawa Macdonald-Cartier International Airport,4,1159124527,-76.00,45.00
+4,Airport,mid,Kabul Int'l,KBL,terminal,OAKB,KBL,50,Hamid Karzai International Airport,4,1159124533,69.00,35.00
+4,Airport,mid,Abidjan Port Bouet,ABJ,terminal,DIAP,ABJ,50,Port Bouet Airport,4,1159124545,-4.00,5.00
+4,Airport,major,General Juan N Alvarez Int'l,ACA,terminal,MMAA,ACA,50,General Juan N. Álvarez International Airport,4,1159124559,-100.00,17.00
+4,Airport,major,Kotoka Int'l,ACC,terminal,DGAA,ACC,50,Kotoka International Airport,4,1159124577,,6.00
+4,Airport,mid,Bole Int'l,ADD,terminal,HAAB,ADD,50,Addis Ababa Bole International Airport,4,1159124593,39.00,9.00
+4,Airport,mid,Aden Int'l,ADE,terminal,OYAA,ADE,50,Aden International Airport,4,1159124609,45.00,13.00
+4,Airport,mid,Adelaide Int'l,ADL,terminal,YPAD,ADL,50,Adelaide Airport,4,1159124621,139.00,-35.00
+4,Airport,major,Almaty Int'l,ALA,terminal,UAAA,ALA,50,Almaty International Airport,4,1159124639,77.00,43.00
+4,Airport,major,Houari Boumediene,ALG,terminal,DAAG,ALG,50,Houari Boumediene Airport,4,1159124651,3.00,37.00
+4,Airport,major,Aleppo Int'l,ALP,terminal,OSAP,ALP,50,Aleppo International Airport,4,1159124663,37.00,36.00
+4,Airport,mid,Sardar Vallabhbhai Patel Int'l,AMD,terminal,VAAH,AMD,50,Sardar Vallabhbhai Patel International Airport,4,1159124675,73.00,23.00
+4,Airport,mid,Cerro Moreno Int'l,ANF,terminal,SCFA,ANF,50,Andrés Sabella Airport,2,1159124691,-70.00,-23.00
+4,Airport,mid,Ashkhabad Northwest,ASB,terminal,UTAA,ASB,50,Ashgabat International Airport,4,1159124703,58.00,38.00
+4,Airport,mid,Yohannes Iv Int'l,ASM,terminal,HHAS,ASM,50,Asmara International Airport,4,1159124717,39.00,15.00
+4,Airport,mid,Silvio Pettirossi Int'l,ASU,terminal,SGAS,ASU,50,Silvio Pettirossi International Airport,4,1159124737,-58.00,-25.00
+4,Airport,mid,Bermuda Int'l,BDA,terminal,TXKF,BDA,50,L.F. Wade International Airport,4,1159124747,-65.00,32.00
+4,Airport,major,Surcin,BEG,terminal,LYBE,BEG,50,Belgrade Nikola Tesla Airport,4,1159124759,20.00,45.00
+4,Airport,major,Beirut Int'l,BEY,terminal,OLBA,BEY,50,Beirut–Rafic Hariri International Airport,4,1159124775,35.00,34.00
+4,Airport,mid,Bairagarh,BHO,terminal,VABP,BHO,50,Raja Bhoj Airport,4,1159124789,77.00,23.00
+4,Airport,mid,Bamako Sénou,BKO,terminal,GABS,BKO,50,Bamako-Sénou International Airport,4,1159124801,-8.00,13.00
+4,Airport,major,Nashville Int'l,BNA,terminal,KBNA,BNA,50,Nashville International Airport,4,1159124815,-87.00,36.00
+4,Airport,major,Brisbane Int'l,BNE,terminal,YBBN,BNE,50,Brisbane Airport,4,1159124827,153.00,-27.00
+4,Airport,major,Boise Air Terminal,BOI,terminal,KBOI,BOI,50,Boise Airport,4,1159124845,-116.00,44.00
+4,Airport,mid,Wiley Post Will Rogers Mem.,BRW,terminal,PABR,BRW,50,Wiley Post–Will Rogers Memorial Airport,4,1159124857,-157.00,71.00
+4,Airport,major,Greater Buffalo Int'l,BUF,terminal,KBUF,BUF,50,Buffalo Niagara International Airport,4,1159124867,-79.00,43.00
+4,Airport,mid,Bulawayo,BUQ,terminal,FVBU,BUQ,50,Joshua Mqabuko Nkomo International Airport,4,1159124879,29.00,-20.00
+4,Airport,major,Brunei Int'l,BWN,terminal,WBSB,BWN,50,Brunei International Airport,4,1159124891,115.00,5.00
+4,Airport,major,Guangzhou Baiyun Int'l,CAN,terminal,ZGGG,CAN,50,Guangzhou Baiyun International Airport,4,1159124905,113.00,23.00
+4,Airport,mid,Carriel Sur Int'l,CCP,terminal,SCIE,CCP,50,Carriel Sur International Airport,4,1159124919,-73.00,-37.00
+4,Airport,major,Netaji Subhash Chandra Bose Int'l,CCU,terminal,VECC,CCU,50,Netaji Subhas Chandra Bose International Airport,4,1159124929,88.00,23.00
+4,Airport,mid,Chittagong,CGP,terminal,VGEG,CGP,50,Shah Amanat International Airport,4,1159124941,92.00,22.00
+4,Airport,major,Christchurch Int'l,CHC,terminal,NZCH,CHC,50,Christchurch International Airport,4,1159124957,173.00,-43.00
+4,Airport,mid,Conakry,CKY,terminal,GUCY,CKY,50,Conakry International Airport,4,1159124971,-14.00,10.00
+4,Airport,major,Hopkins Int'l,CLE,terminal,KCLE,CLE,50,Cleveland Hopkins International Airport,4,1159124983,-82.00,41.00
+4,Airport,mid,Alfonso Bonilla Aragón Int'l,CLO,terminal,SKCL,CLO,50,Alfonso Bonilla Aragón International Airport,4,1159124999,-76.00,4.00
+4,Airport,mid,Cotonou Cadjehon,COO,terminal,DBBB,COO,50,Cadjehoun Airport,4,1159125011,2.00,6.00
+4,Airport,mid,Ingeniero Ambrosio L.V. Taravella Int'l,COR,terminal,SACO,COR,50,Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport,4,1159125023,-64.00,-31.00
+4,Airport,mid,Rafael Nunez,CTG,terminal,SKCG,CTG,50,Rafael Núñez International Airport,4,1159125033,-76.00,10.00
+4,Airport,major,Cancún,CUN,terminal,MMUN,CUN,50,Cancún International Airport,4,1159125049,-87.00,21.00
+4,Airport,mid,General R F Villalobos Int'l,CUU,terminal,MMCU,CUU,50,General Roberto Fierro Villalobos International Airport,4,1159125065,-106.00,29.00
+4,Airport,mid,Zia Int'l Dhaka,DAC,terminal,VGHS,DAC,50,Shahjalal International Airport,4,1159125077,90.00,24.00
+4,Airport,major and military,Darwin Int'l,DRW,terminal,YPDN,DRW,50,Darwin International Airport,4,1159125091,131.00,-12.00
+4,Airport,mid,Louis Botha,DUR,terminal,FADN,DUR,50,Durban International Airport,4,1159125101,31.00,-30.00
+4,Airport,mid,Lubumbashi Luano Int'l,FBM,terminal,FZQA,FBM,50,Lubumbashi International Airport,4,1159125113,28.00,-12.00
+4,Airport,mid,Saiss,FEZ,terminal,GMFF,FEZ,50,Fes-Saïss Airport,4,1159125125,-5.00,34.00
+4,Airport,mid,Kinshasa N Djili Int'l,FIH,terminal,FZAA,FIH,50,N'djili Airport,4,1159125139,15.00,-4.00
+4,Airport,mid,Freetown Lungi,FNA,terminal,GFLL,FNA,50,Lungi International Airport,4,1159125153,-13.00,9.00
+4,Airport,mid,Sunan,FNJ,terminal,ZKPY,FNJ,50,Pyongyang Sunan International Airport,4,1159125167,126.00,39.00
+4,Airport,major,Vasilyevka,FRU,terminal,UAFM,FRU,50,Manas International Airport,5,1159125179,74.00,43.00
+4,Airport,mid,Sir Seretse Khama Int'l,GBE,terminal,FBSK,GBE,50,Sir Seretse Khama International Airport,4,1159125191,26.00,-25.00
+4,Airport,major,Don Miguel Hidalgo Int'l,GDL,terminal,MMGL,GDL,50,Guadalajara International Airport,4,1159125205,-103.00,21.00
+4,Airport,major,Glasgow Int'l,GLA,terminal,EGPF,GLA,50,Glasgow Airport,4,1159125213,-4.00,56.00
+4,Airport,mid,La Aurora,GUA,terminal,MGGT,GUA,50,La Aurora International Airport,4,1159125223,-91.00,15.00
+4,Airport,mid,Simon Bolivar Int'l,GYE,terminal,SEGU,GYE,50,José Joaquín de Olmedo International Airport,4,1159125231,-80.00,-2.00
+4,Airport,major,Noi Bai,HAN,terminal,VVNB,HAN,50,Noi Bai International Airport,4,1159125235,106.00,21.00
+4,Airport,major,José Martí Int'l,HAV,terminal,MUHA,HAV,50,José Martí International Airport,4,1159125245,-82.00,23.00
+4,Airport,mid,Borg El Arab Int'l,HBE,terminal,HEBA,HBE,50,Borg El Arab Airport,4,1159125249,30.00,31.00
+4,Airport,major,King Abdul Aziz Int'l,JED,terminal,OEJN,JED,50,King Abdulaziz International Airport,4,1159125253,39.00,22.00
+4,Airport,mid,Kano Mallam Aminu Int'l,KAN,terminal,DNKN,KAN,50,Mallam Aminu Kano International Airport,4,1159125263,9.00,12.00
+4,Airport,mid,Kashi,KHG,terminal,ZWSH,KHG,50,Kashgar Airport,4,1159125271,76.00,40.00
+4,Airport,major,Norman Manley Int'l,KIN,terminal,MKJP,KIN,50,Norman Manley International Airport,4,1159125285,-77.00,18.00
+4,Airport,mid,Tribhuvan Int'l,KTM,terminal,VNKT,KTM,50,Tribhuvan International Airport,4,1159125303,85.00,28.00
+4,Airport,mid,Luanda 4 de Fevereiro,LAD,terminal,FNLU,LAD,50,Quatro de Fevereiro Airport,4,1159125315,13.00,-9.00
+4,Airport,major,Pulkovo 2,LED,terminal,ULLI,LED,50,Pulkovo Airport,4,1159125331,30.00,60.00
+4,Airport,mid,Allama Iqbal Int'l,LHE,terminal,OPLA,LHE,50,Allama Iqbal International Airport,4,1159125343,74.00,32.00
+4,Airport,mid,Kamuzu Int'l,LLW,terminal,FWKI,LLW,50,Lilongwe International Airport,4,1159125359,34.00,-14.00
+4,Airport,major,Lagos Murtala Muhammed,LOS,terminal,DNMM,LOS,50,Murtala Muhammed International Airport,4,1159125373,3.00,7.00
+4,Airport,mid,El Alto Int'l,LPB,terminal,SLLP,LPB,50,El Alto International Airport,4,1159125385,-68.00,-17.00
+4,Airport,mid,Lusaka Int'l,LUN,terminal,FLLS,LUN,50,Lusaka International Airport,5,1159125403,28.00,-15.00
+4,Airport,mid,Luxor,LXR,terminal,HELX,LXR,50,Luxor International Airport,4,1159125413,33.00,26.00
+4,Airport,major,Chennai Int'l,MAA,terminal,VOMM,MAA,50,Chennai International Airport,4,1159125429,80.00,13.00
+4,Airport,mid,La Chinita Int'l,MAR,terminal,SVMC,MAR,50,La Chinita International Airport,4,1159125441,-72.00,11.00
+4,Airport,mid,José María Córdova,MDE,terminal,SKRG,MDE,50,José María Córdova International Airport,4,1159125455,-75.00,6.00
+4,Airport,major,Memphis Int'l,MEM,terminal,KMEM,MEM,50,Memphis International Airport,4,1159125467,-90.00,35.00
+4,Airport,mid,Augusto Cesar Sandino Int'l,MGA,terminal,MNMG,MGA,50,Augusto C. Sandino International Airport,4,1159125481,-86.00,12.00
+4,Airport,major,Mashhad,MHD,terminal,OIMM,MHD,50,Mashhad International Airport,4,1159125495,60.00,36.00
+4,Airport,major,Miami Int'l,MIA,terminal,KMIA,MIA,50,Miami International Airport,4,1159125509,-80.00,26.00
+4,Airport,mid,Lic M Crecencio Rejon Int'l,MID,terminal,MMMD,MID,50,Manuel Crescencio Rejón International Airport,4,1159125521,-90.00,21.00
+4,Airport,major,Luqa,MLA,terminal,LMML,MLA,50,Malta International Airport,2,1159125535,14.00,36.00
+4,Airport,major,Moi Int'l,MBA,terminal,HKMO,MBA,50,Moi International Airport,4,1159125545,40.00,-4.00
+4,Airport,mid,Moshoeshoe I Int'l,MSU,terminal,FXMM,MSU,50,Moshoeshoe I International Airport,4,1159125565,28.00,-29.00
+4,Airport,major,New Orleans Int'l,MSY,terminal,KMSY,MSY,50,Louis Armstrong New Orleans International Airport,4,1159125575,-90.00,30.00
+4,Airport,major and military,Multan,MUX,runway,OPMT,MUX,50,Multan International Airport,4,1159125587,71.00,30.00
+4,Airport,major,Carrasco Int'l,MVD,terminal,SUMU,MVD,50,Carrasco International Airport,4,1159125601,-56.00,-35.00
+4,Airport,mid,General Rafael Buelna Int'l,MZT,terminal,MMMZ,MZT,50,General Rafael Buelna International Airport,4,1159125613,-106.00,23.00
+4,Airport,major,Nassau Int'l,NAS,terminal,MYNN,NAS,50,Lynden Pindling International Airport,4,1159125627,-77.00,25.00
+4,Airport,mid,Ndjamena,NDJ,terminal,FTTJ,NDJ,50,N'Djamena International Airport,4,1159125641,15.00,12.00
+4,Airport,mid,Niamey,NIM,terminal,DRRN,NIM,50,Diori Hamani International Airport,2,1159125655,2.00,13.00
+4,Airport,major,Mactan-Cebu Int'l,CEB,terminal,RPVM,CEB,50,Mactan–Cebu International Airport,2,1159125667,124.00,10.00
+4,Airport,mid,Nova Lisboa,NOV,terminal,FNHU,NOV,50,Albano Machado Airport,4,1159125681,16.00,-13.00
+4,Airport,mid,Eppley Airfield,OMA,terminal,KOMA,OMA,50,Eppley Airfield,4,1159125695,-96.00,41.00
+4,Airport,mid,Nome,OME,terminal,PAOM,OME,50,Nome Airport,4,1159125707,-165.00,65.00
+4,Airport,mid,Ouagadougou,OUA,terminal,DFFD,OUA,50,Ouagadougou Airport,4,1159125715,-2.00,12.00
+4,Airport,mid,Mais Gate Int'l,PAP,terminal,MTPP,PAP,50,Toussaint Louverture International Airport,4,1159125727,-72.00,19.00
+4,Airport,mid,Puebla,PBC,terminal,MMPB,PBC,50,Hermanos Serdán International Airport,4,1159125745,-98.00,19.00
+4,Airport,major,Portland Int'l,PDX,terminal,KPDX,PDX,50,Portland International Airport,4,1159125755,-123.00,46.00
+4,Airport,major,Perth Int'l,PER,terminal,YPPH,PER,50,Perth Airport,4,1159125765,116.00,-32.00
+4,Airport,mid,H F Verwoerd,PLZ,terminal,FAPE,PLZ,50,Port Elizabeth Airport,2,1159125779,26.00,-34.00
+4,Airport,mid,El Tepual Int'l,PMC,terminal,SCTE,PMC,50,El Tepual Airport,4,1159125791,-73.00,-41.00
+4,Airport,major,Pochentong,PNH,terminal,VDPP,PNH,50,Phnom Penh International Airport,4,1159125805,105.00,12.00
+4,Airport,major and military,Pune,PNQ,terminal,VAPO,PNQ,50,Pune Airport,4,1159125819,74.00,19.00
+4,Airport,major,Port Moresby Int'l,POM,terminal,AYPY,POM,50,Jacksons International Airport,4,1159125833,147.00,-9.00
+4,Airport,major,Tocumen Int'l,PTY,terminal,MPTO,PTY,50,Tocumen International Airport,4,1159125843,-79.00,9.00
+4,Airport,mid,Carlos Ibáñez de Campo Int'l,PUQ,terminal,SCCI,PUQ,50,Presidente Carlos Ibáñez del Campo International Airport,4,1159125857,-71.00,-53.00
+4,Airport,major,Durham Int'l,RDU,terminal,KRDU,RDU,50,Raleigh–Durham International Airport,4,1159125871,-79.00,36.00
+4,Airport,major,Mingaladon,RGN,terminal,VYYY,RGN,50,Yangon International Airport,4,1159125883,96.00,17.00
+4,Airport,major,Riga,RIX,terminal,EVRA,RIX,50,Riga International Airport,4,1159125897,24.00,57.00
+4,Airport,mid,Sanaa Int'l,SAH,terminal,OYSN,SAH,50,Sana'a International Airport,4,1159125911,44.00,15.00
+4,Airport,major,Baghdad Int'l,SDA,terminal,ORBI,SDA,50,Baghdad International Airport,4,1159125925,44.00,33.00
+4,Airport,major,De Las Américas Int'l,SDQ,terminal,MDSD,SDQ,50,Las Américas International Airport,4,1159125937,-70.00,18.00
+4,Airport,major,Tan Son Nhat,SGN,terminal,VVTS,SGN,50,Tan Son Nhat International Airport,4,1159125951,107.00,11.00
+4,Airport,major,Thessaloniki,SKG,terminal,LGTS,SKG,50,Thessaloniki International Airport,4,1159125965,23.00,41.00
+4,Airport,major,Vrazhdebna,SOF,terminal,LBSF,SOF,50,Sofia Airport,2,1159125981,23.00,43.00
+4,Airport,major,Surat,STV,terminal,VASU,STV,50,Surat Airport,4,1159125995,73.00,21.00
+4,Airport,mid,Nausori Int'l,SUV,terminal,NFNA,SUV,50,Nausori International Airport,4,1159126005,179.00,-18.00
+4,Airport,major,Shiraz Int'l,SYZ,terminal,OISS,SYZ,50,Shiraz International Airport,4,1159126021,53.00,30.00
+4,Airport,mid,Gen Francisco J Mina Int'l,TAM,terminal,MMTM,TAM,50,General Francisco Javier Mina International Airport,4,1159126033,-98.00,22.00
+4,Airport,mid,Toncontin Int'l,TGU,terminal,MHTG,TGU,50,Toncontín International Airport,4,1159126049,-87.00,14.00
+4,Airport,major,Mehrabad Int'l,THR,terminal,OIII,THR,50,Mehrabad International Airport,4,1159126059,51.00,36.00
+4,Airport,major,Tirane Rinas,TIA,terminal,LATI,TIA,50,Tirana International Airport Nënë Tereza,4,1159126075,20.00,41.00
+4,Airport,major,General Abelardo L Rodriguez Int'l,TIJ,terminal,MMTJ,TIJ,50,Tijuana International Airport,2,1159126093,-117.00,33.00
+4,Airport,mid,Jose Maria Morelos Y Pavon,TLC,terminal,MMTO,TLC,50,Lic. Adolfo López Mateos International Airport,2,1159126107,-100.00,19.00
+4,Airport,major,Ulemiste,TLL,terminal,EETN,TLL,50,Tallinn Airport,4,1159126123,25.00,59.00
+4,Airport,major,Ben Gurion,TLV,terminal,LLBG,TLV,50,Ben Gurion Airport,4,1159126131,35.00,32.00
+4,Airport,mid,São Tomé Salazar,TMS,terminal,FPST,TMS,50,São Tomé International Airport,4,1159126141,7.00,
+4,Airport,mid,Antananarivo Ivato,TNR,terminal,FMMI,TNR,50,Ivato Airport,4,1159126153,47.00,-19.00
+4,Airport,major,Tampa Int'l,TPA,parking,KTPA,TPA,50,Tampa International Airport,4,1159126167,-83.00,28.00
+4,Airport,mid,Zim Valencia,VLN,terminal,SVVA,VLN,50,Arturo Michelena International Airport,4,1159126181,-68.00,10.00
+4,Airport,mid,Gumrak,VOG,terminal,URWW,VOG,50,Volgograd International Airport,4,1159126195,44.00,49.00
+4,Airport,mid,Vientiane,VTE,terminal,VLVT,VTE,50,Wattay International Airport,4,1159126207,103.00,18.00
+4,Airport,mid,Viru Viru Int'l,VVI,terminal,SLVR,VVI,50,Viru Viru International Airport,4,1159126221,-63.00,-18.00
+4,Airport,major,Wellington Int'l,WLG,terminal,NZWN,WLG,50,Wellington International Airport,4,1159126235,175.00,-41.00
+4,Airport,mid,Prince Rupert,YPR,terminal,CYPR,YPR,50,Prince Rupert Airport,4,1159126249,-130.00,54.00
+4,Airport,mid,Windsor,YQG,terminal,CYQG,YQG,50,Windsor International Airport,4,1159126261,-83.00,42.00
+4,Airport,mid,Regina,YQR,terminal,CYQR,YQR,50,Regina International Airport,4,1159126275,-105.00,50.00
+4,Airport,major,Vancouver Int'l,YVR,terminal,CYVR,YVR,50,Vancouver International Airport,4,1159126287,-123.00,49.00
+4,Airport,major,Winnipeg Int'l,YWG,terminal,CYWG,YWG,50,Winnipeg James Armstrong Richardson International Airport,2,1159126307,-97.00,50.00
+4,Airport,mid,John G Diefenbaker Int'l,YXE,terminal,CYXE,YXE,50,Saskatoon John G. Diefenbaker International Airport,4,1159126319,-107.00,52.00
+4,Airport,mid,Whitehorse Int'l,YXY,terminal,CYXY,YXY,50,Erik Nielsen Whitehorse International Airport,4,1159126329,-135.00,61.00
+4,Airport,major,Calgary Int'l,YYC,terminal,CYYC,YYC,50,Calgary International Airport,4,1159126341,-114.00,51.00
+4,Airport,mid,Charlottetown,YYG,terminal,CYYG,YYG,50,Charlottetown Airport,4,1159126361,-63.00,46.00
+4,Airport,mid,Churchill,YYQ,terminal,CYYQ,YYQ,50,Churchill Airport,4,1159126367,-94.00,59.00
+4,Airport,mid,St John's Int'l,YYT,terminal,CYYT,YYT,50,St. John's International Airport,4,1159126381,-53.00,48.00
+4,Airport,mid,Yellowknife,YZF,terminal,CYZF,YZF,50,Yellowknife Airport,4,1159126395,-114.00,62.00
+4,Airport,major,Zagreb,ZAG,terminal,LDZA,ZAG,50,Zagreb Airport,4,1159126409,16.00,46.00
+4,Airport,mid,Zanzibar,ZNZ,terminal,HTZA,ZNZ,50,Abeid Amani Karume International Airport,2,1159126417,39.00,-6.00
+4,Airport,mid,Reykjavik Air Terminal,REK,terminal,BIRK,REK,50,Reykjavík Airport,2,1159126431,-22.00,64.00
+4,Airport,mid,Arkhangelsk-Talagi,ARH,terminal,ULAA,ARH,50,Talagi Airport,4,1159126445,41.00,65.00
+4,Airport,major,Kazan Int'l,KZN,terminal,UWKD,KZN,50,Kazan International Airport,4,1159126457,49.00,56.00
+4,Airport,major,Paris Orly,ORY,parking,LFPO,ORY,50,Orly Airport,4,1159126471,2.00,49.00
+4,Airport,major,Québec,YQB,terminal,CYQB,YQB,50,Québec City Jean Lesage International Airport,4,1159126485,-71.00,47.00
+4,Airport,major,Montréal-Trudeau,YUL,terminal,CYUL,YUL,50,Montréal–Pierre Elliott Trudeau International Airport,4,1159126499,-74.00,45.00
+4,Airport,major,Narita Int'l,NRT,terminal,RJAA,NRT,50,Narita International Airport,4,1159126505,140.00,36.00
+4,Airport,major,Chubu Centrair Int'l,NGO,terminal,RJGG,NGO,50,Chubu Centrair International Airport,4,1159126523,137.00,35.00
+4,Airport,mid,Okadama,OKD,terminal,RJCO,OKD,50,Okadama Airport,4,1159126537,141.00,43.00
+4,Airport,major,Bergen Flesland,BGO,terminal,ENBR,BGO,50,Bergen Airport,4,1159126547,5.00,60.00
+4,Airport,major,Tromsø Langnes,TOS,terminal,ENTC,TOS,50,Tromsø Airport,4,1159126559,19.00,70.00
+4,Airport,mid,Val de Caes Int'l,BEL,terminal,SBBE,BEL,50,Val de Cans International Airport,4,1159126571,-48.00,-1.00
+4,Airport,mid,Campo Grande Int'l,CGR,terminal,SBCG,CGR,50,Campo Grande International Airport,4,1159126581,-55.00,-20.00
+4,Airport,mid,Afonso Pena Int'l,CWB,terminal,SBCT,CWB,50,Afonso Pena International Airport,4,1159126593,-49.00,-26.00
+4,Airport,mid,Pinto Martins Int'l,FOR,terminal,SBFZ,FOR,50,Pinto Martins – Fortaleza International Airport,4,1159126603,-39.00,-4.00
+4,Airport,major,São Paulo-Guarulhos Int'l,GRU,terminal,SBGR,GRU,50,São Paulo-Guarulhos International Airport,4,1159126615,-46.00,-23.00
+4,Airport,mid,Santa Genoveva,GYN,terminal,SBGO,GYN,50,Santa Genoveva Airport,4,1159126627,-49.00,-17.00
+4,Airport,mid,Salgado Filho Int'l,POA,terminal,SBPA,POA,50,Salgado Filho International Airport,4,1159126637,-51.00,-30.00
+4,Airport,mid,Gilberto Freyre Int'l,REC,terminal,SBRF,REC,50,Recife/Guararapes–Gilberto Freyre International Airport,4,1159126651,-35.00,-8.00
+4,Airport,mid,Deputado Luis Eduardo Magalhaes Int'l,SSA,terminal,SBSV,SSA,50,Deputado Luís Eduardo Magalhães International Airport,4,1159126665,-38.00,-13.00
+4,Airport,mid,El Plumerillo,MDZ,terminal,SAME,MDZ,50,Governor Francisco Gabrielli International Airport,4,1159126679,-69.00,-33.00
+4,Airport,mid,Eduardo Gomes Int'l,MAO,terminal,SBEG,MAO,50,Eduardo Gomes International Airport,4,1159126691,-60.00,-3.00
+4,Airport,mid,Yaoundé Nsimalen Int'l,NSI,terminal,FKYS,NSI,50,Yaoundé Nsimalen International Airport,4,1159126705,12.00,4.00
+4,Airport,major,Shanghai Pudong Int'l,PVG,terminal,ZSPD,PVG,50,Shanghai Pudong International Airport,4,1159126719,122.00,31.00
+4,Airport,mid,Marka Int'l,ADJ,terminal,OJAM,ADJ,50,Amman Civil Airport,4,1159126733,36.00,32.00
+4,Airport,major,Male Int'l,MLE,terminal,VRMM,MLE,50,Ibrahim Nasir International Airport,4,1159126745,74.00,4.00
+4,Airport,mid,Gen. Heriberto Jara Int'l,VER,terminal,MMVR,VER,50,General Heriberto Jara International Airport,4,1159126759,-96.00,19.00
+4,Airport,mid,Osvaldo Vieira Int'l,OXB,terminal,GGOV,OXB,50,Osvaldo Vieira International Airport,4,1159126773,-16.00,12.00
+4,Airport,major,Francisco Bangoy Int'l,DVO,terminal,RPMD,DVO,50,Francisco Bangoy International Airport,4,1159126787,126.00,7.00
+4,Airport,mid,Seychelles Int'l,SEZ,terminal,FSIA,SEZ,50,Seychelles International Airport,4,1159126799,56.00,-5.00
+4,Airport,major,Léopold Sedar Senghor Int'l,DKR,terminal,GOOY,DKR,50,Léopold Sédar Senghor International Airport,4,1159126813,-17.00,15.00
+4,Airport,mid,Port Sudan New Int'l,PZU,terminal,HSPN,PZU,50,Port Sudan New International Airport,4,1159126827,37.00,19.00
+4,Airport,major,Tashkent Int'l,TAS,terminal,UTTT,TAS,50,Tashkent International Airport,4,1159126841,69.00,41.00
+3,Airport,major,Copenhagen,CPH,terminal,EKCH,CPH,75,Copenhagen Airport,4,1159126853,13.00,56.00
+3,Airport,mid,Aeroportul National Bucuresti-Baneasa,BBU,terminal,LRBS,BBU,75,Aurel Vlaicu International Airport,4,1159126867,26.00,44.00
+3,Airport,major,Ferihegy,BUD,terminal,LHBP,BUD,75,Budapest Ferenc Liszt International Airport,4,1159126881,19.00,47.00
+3,Airport,major,Chongqing Jiangbei Int'l,CKG,terminal,ZUCK,CKG,75,Chongqing Jiangbei International Airport,4,1159126895,107.00,30.00
+3,Airport,major,Douglas Int'l,CLT,terminal,KCLT,CLT,75,Charlotte/Douglas International Airport,4,1159126907,-81.00,35.00
+3,Airport,major,Detroit Metro,DTW,terminal,KDTW,DTW,75,Detroit Metropolitan Wayne County Airport,4,1159126921,-83.00,42.00
+3,Airport,major,Dublin,DUB,terminal,EIDW,DUB,75,Dublin Airport,4,1159126945,-6.00,53.00
+3,Airport,major,Fairbanks Int'l,FAI,terminal,PAFA,FAI,75,Fairbanks International Airport,4,1159126959,-148.00,65.00
+3,Airport,major,Hamburg,HAM,terminal,EDDH,HAM,75,Hamburg Airport,4,1159126973,10.00,54.00
+3,Airport,major,Kuala Lumpur Int'l,KUL,terminal,WMKK,KUL,75,Kuala Lumpur International Airport,4,1159126985,102.00,3.00
+3,Airport,major,Mccarran Int'l,LAS,terminal,KLAS,LAS,75,McCarran International Airport,4,1159126995,-115.00,36.00
+3,Airport,major,Orlando Int'l,MCO,terminal,KMCO,MCO,75,Orlando International Airport,4,1159127009,-81.00,28.00
+3,Airport,major,Minneapolis St. Paul Int'l,MSP,terminal,KMSP,MSP,75,Minneapolis–Saint Paul International Airport,4,1159127027,-93.00,45.00
+3,Airport,major,Franz-Josef-Strauss,MUC,terminal,EDDM,MUC,75,Munich Airport,4,1159127035,12.00,48.00
+3,Airport,major,Philadelphia Int'l,PHL,terminal,KPHL,PHL,75,Philadelphia International Airport,4,1159127049,-75.00,40.00
+3,Airport,major,Sky Harbor Int'l,PHX,terminal,KPHX,PHX,75,Phoenix Sky Harbor International Airport,4,1159127063,-112.00,33.00
+3,Airport,major,Salt Lake City Int'l,SLC,terminal,KSLC,SLC,75,Salt Lake City International Airport,4,1159127079,-112.00,41.00
+3,Airport,major,Lambert St Louis Int'l,STL,terminal,KSTL,STL,75,Lambert–St. Louis International Airport,4,1159127093,-90.00,39.00
+3,Airport,major,Okecie Int'l,WAW,terminal,EPWA,WAW,75,Warsaw Chopin Airport,4,1159127105,21.00,52.00
+3,Airport,major,Zurich Int'l,ZRH,terminal,LSZH,ZRH,75,Zurich Airport,4,1159127117,9.00,47.00
+3,Airport,mid,Gosselies,CRL,terminal,EBCI,CRL,75,Brussels South Charleroi Airport,2,1159127129,4.00,50.00
+3,Airport,major,Munich Freight Terminal,MUCf,freight,EDDMf,MUCf,75,Munich Airport,4,1159127147,12.00,48.00
+3,Airport,major,Barcelona,BCN,terminal,LEBL,BCN,75,Barcelona–El Prat Airport,4,1159127159,2.00,41.00
+3,Airport,major,Ruzyn,PRG,terminal,LKPR,PRG,75,Prague Václav Havel Airport,4,1159127171,14.00,50.00
+2,Airport,major,Hong Kong Int'l,HKG,terminal,VHHH,HKG,150,Hong Kong International Airport,4,1159127187,114.00,22.00
+2,Airport,major,Taoyuan,TPE,terminal,RCTP,TPE,150,Taoyuan International Airport,4,1159127201,121.00,25.00
+2,Airport,major,Schiphol,AMS,terminal,EHAM,AMS,150,Amsterdam Airport Schiphol,2,1159127211,5.00,52.00
+2,Airport,major,Singapore Changi,SIN,terminal,WSSS,SIN,150,Singapore Changi Airport,4,1159127223,104.00,1.00
+2,Airport,major,London Heathrow,LHR,parking,EGLL,LHR,150,Heathrow Airport,4,1159127237,,51.00
+2,Airport,major,Auckland Int'l,AKL,terminal,NZAA,AKL,150,Auckland Airport,4,1159127251,175.00,-37.00
+2,Airport,major,Anchorage Int'l,ANC,terminal,PALH,ANC,150,Ted Stevens Anchorage International Airport,5,1159127263,-150.00,61.00
+2,Airport,major,Hartsfield-Jackson Atlanta Int'l,ATL,terminal,KATL,ATL,150,Hartsfield–Jackson Atlanta International Airport,4,1159127283,-84.00,34.00
+2,Airport,major,Beijing Capital,PEK,terminal,ZBAA,PEK,150,Beijing Capital International Airport,4,1159127293,117.00,40.00
+2,Airport,major,Eldorado Int'l,BOG,terminal,SKBO,BOG,150,El Dorado International Airport,4,1159127303,-74.00,5.00
+2,Airport,major,Chhatrapati Shivaji Int'l,BOM,terminal,VABB,BOM,150,Chhatrapati Shivaji International Airport,4,1159127317,73.00,19.00
+2,Airport,major,Gen E L Logan Int'l,BOS,terminal,KBOS,BOS,150,Logan International Airport,4,1159127331,-71.00,42.00
+2,Airport,major,Baltimore-Washington Int'l Thurgood Marshall,BWI,terminal,KBWI,BWI,150,Baltimore/Washington International Thurgood Marshall Airport,4,1159127345,-77.00,39.00
+2,Airport,major,Cairo Int'l,CAI,terminal,HECA,CAI,150,Cairo International Airport,4,1159127357,31.00,30.00
+2,Airport,mid,Casablanca-Anfa,CAS,terminal,GMMC,CAS,150,Casablanca-Anfa Airport,4,1159127367,-8.00,34.00
+2,Airport,mid,Simón Bolivar Int'l,CCS,terminal,SVMI,CCS,150,Simón Bolívar International Airport,4,1159127381,-67.00,11.00
+2,Airport,major,Cape Town Int'l,CPT,terminal,FACT,CPT,150,Cape Town International Airport,4,1159127391,19.00,-34.00
+2,Airport,major,Chengdushuang Liu,CTU,terminal,ZUUU,CTU,150,Chengdu Shuangliu International Airport,4,1159127407,104.00,31.00
+2,Airport,major,Indira Gandhi Int'l,DEL,terminal,VIDP,DEL,150,Indira Gandhi International Airport,4,1159127419,77.00,29.00
+2,Airport,major,Denver Int'l,DEN,terminal,KDEN,DEN,150,Denver International Airport,4,1159127425,-105.00,40.00
+2,Airport,major,Dallas-Ft. Worth Int'l,DFW,parking,KDFW,DFW,150,Dallas/Fort Worth International Airport,4,1159127437,-97.00,33.00
+2,Airport,major,Don Muang Int'l,DMK,terminal,VTBD,DMK,150,Don Mueang International Airport,4,1159127447,101.00,14.00
+2,Airport,major,Dubai Int'l,DXB,terminal,OMDB,DXB,150,Dubai International Airport,4,1159127459,55.00,25.00
+2,Airport,major,Newark Int'l,EWR,terminal,KEWR,EWR,150,Newark Liberty International Airport,4,1159127471,-74.00,41.00
+2,Airport,major,Ministro Pistarini Int'l,EZE,terminal,SAEZ,EZE,150,Ministro Pistarini International Airport,4,1159127481,-59.00,-35.00
+2,Airport,major,Fort Lauderdale Hollywood Int'l,FLL,terminal,KFLL,FLL,150,Fort Lauderdale–Hollywood International Airport,4,1159127493,-80.00,26.00
+2,Airport,major,George Bush Intercontinental,IAH,terminal,KIAH,IAH,150,George Bush Intercontinental Airport,4,1159127507,-95.00,30.00
+2,Airport,major,Atatürk Hava Limani,IST,terminal,LTBA,IST,150,Atatürk International Airport,2,1159127517,29.00,41.00
+2,Airport,major,OR Tambo Int'l,JNB,terminal,FAJS,JNB,150,OR Tambo International Airport,4,1159127529,28.00,-26.00
+2,Airport,mid,Juneau Int'l,JNU,terminal,PAJN,JNU,150,Juneau International Airport,4,1159127539,-135.00,58.00
+2,Airport,major,Los Angeles Int'l,LAX,terminal,KLAX,LAX,150,Los Angeles International Airport,4,1159127551,-118.00,34.00
+2,Airport,major,Linate,LIN,terminal,LIML,LIN,150,Linate Airport,4,1159127561,9.00,45.00
+2,Airport,major,Melbourne Int'l,MEL,terminal,YMML,MEL,150,Melbourne Airport,4,1159127571,145.00,-38.00
+2,Airport,major,Lic Benito Juarez Int'l,MEX,terminal,MMMX,MEX,150,Mexico City International Airport,4,1159127585,-99.00,19.00
+2,Airport,major,Ninoy Aquino Int'l,MNL,terminal,RPLL,MNL,150,Ninoy Aquino International Airport,4,1159127591,121.00,15.00
+2,Airport,major,Jomo Kenyatta Int'l,NBO,terminal,HKJK,NBO,150,Jomo Kenyatta International Airport,4,1159127605,37.00,-1.00
+2,Airport,major,Honolulu Int'l,HNL,terminal,PHNL,HNL,150,Honolulu International Airport,4,1159127617,-158.00,21.00
+2,Airport,major,Chicago O'Hare Int'l,ORD,terminal,KORD,ORD,150,O'Hare International Airport,4,1159127621,-88.00,42.00
+2,Airport,major,King Khalid Int'l,RUH,terminal,OERK,RUH,150,King Khalid International Airport,4,1159127633,47.00,25.00
+2,Airport,major,Arturo Merino Benitez Int'l,SCL,terminal,SCEL,SCL,150,Comodoro Arturo Merino Benítez International Airport,4,1159127643,-71.00,-33.00
+2,Airport,major,Tacoma Int'l,SEA,terminal,KSEA,SEA,150,Seattle–Tacoma International Airport,2,1159127655,-122.00,47.00
+2,Airport,major,San Francisco Int'l,SFO,terminal,KSFO,SFO,150,San Francisco International Airport,4,1159127665,-122.00,38.00
+2,Airport,major,Hongqiao,SHA,terminal,ZSSS,SHA,150,Shanghai Hongqiao International Airport,4,1159127677,121.00,31.00
+2,Airport,major,Sheremtyevo,SVO,terminal,UUEE,SVO,150,Sheremetyevo International Airport,4,1159127689,37.00,56.00
+2,Airport,major,Toronto-Pearson Int'l,YYZ,terminal,CYYZ,YYZ,150,Toronto Pearson International Airport,4,1159127701,-80.00,44.00
+2,Airport,major,Kingsford Smith,SYD,terminal,YSSY,SYD,150,Sydney Airport,4,1159127713,151.00,-34.00
+2,Airport,major,Helsinki Vantaa,HEL,terminal,EFHK,HEL,150,Helsinki Airport,4,1159127725,25.00,60.00
+2,Airport,major,Charles de Gaulle Int'l,CDG,terminal,LFPG,CDG,150,Paris-Charles de Gaulle Airport,4,1159127735,3.00,49.00
+2,Airport,major,Berlin-Tegel Int'l,TXL,terminal,EDDT,TXL,150,Berlin Tegel Airport,4,1159127747,13.00,53.00
+2,Airport,major,Vienna Schwechat Int'l,VIE,terminal,LOWW,VIE,150,Wien-Schwechat Airport,4,1159127759,17.00,48.00
+2,Airport,major,Frankfurt Int'l,FRA,terminal,EDDF,FRA,150,Frankfurt Airport,2,1159127769,9.00,50.00
+2,Airport,major,Leonardo da Vinci Int'l,FCO,terminal,LIRF,FCO,150,Leonardo da Vinci–Fiumicino Airport,4,1159127781,12.00,42.00
+2,Airport,major,Osaka Int'l,ITM,terminal,RJOO,ITM,150,Osaka International Airport,4,1159127787,135.00,35.00
+2,Airport,major,Gimpo Int'l,GMP,terminal,RKSS,GMP,150,Gimpo International Airport,4,1159127799,127.00,38.00
+2,Airport,major,Oslo Gardermoen,OSL,terminal,ENGM,OSL,150,Oslo Airport,2,1159127809,11.00,60.00
+2,Airport,major,Juscelino Kubitschek Int'l,BSB,terminal,SBBR,BSB,150,Brasília International Airport,2,1159127817,-48.00,-16.00
+2,Airport,major,Congonhas Int'l,CGH,terminal,SBSP,CGH,150,Congonhas-São Paulo Airport,4,1159127827,-47.00,-24.00
+2,Airport,major,Rio de Janeiro-Antonio Carlos Jobim Int'l,GIG,terminal,SBGL,GIG,150,Rio de Janeiro-Galeão International Airport,2,1159127839,-43.00,-23.00
+2,Airport,major,Madrid Barajas,MAD,terminal,LEMD,MAD,150,Adolfo Suárez Madrid–Barajas Airport,4,1159127851,-4.00,40.00
+2,Airport,major,Luis Muñoz Marin,SJU,terminal,TJSJ,SJU,150,Luis Muñoz Marín International Airport,4,1159127861,-66.00,18.00
+2,Airport,major,Arlanda,ARN,terminal,ESSA,ARN,150,Stockholm Arlanda Airport,4,1159127877,18.00,60.00
+2,Airport,major,Soekarno-Hatta Int'l,CGK,parking,WIII,CGK,150,Soekarno–Hatta International Airport,4,1159127891,107.00,-6.00
+2,Airport,major,Eleftherios Venizelos Int'l,ATH,terminal,LGAV,ATH,150,Athens International Airport,2,1159127903,24.00,38.00
